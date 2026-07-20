@@ -1,0 +1,307 @@
+# Official SSA Compassionate Allowances conditions
+# Source: https://www.ssa.gov/compassionateallowances/conditions.htm
+# Verified: 2026-07-20
+# Count: 300
+# One canonical SSA condition name per line. The search workflow also uses shorter disease names and aliases where appropriate.
+
+1p36 Deletion Syndrome
+Acute Leukemia
+Adrenal Cancer - with distant metastases or inoperable, unresectable or recurrent
+Adult Heart Transplant Wait List – Status Levels 1-4
+Adult Non-Hodgkin Lymphoma
+Adult Onset Huntington Disease
+Aicardi-Goutieres Syndrome
+Alexander Disease (ALX) - Neonatal and Infantile
+Allan-Herndon-Dudley Syndrome
+Alobar Holoprosencephaly
+Alpers Disease
+Alpha Mannosidosis - Type II and III
+ALS/Parkinsonism Dementia Complex
+Alstrom Syndrome
+Alveolar Soft Part Sarcoma
+Amegakaryocytic Thrombocytopenia
+Amyotrophic Lateral Sclerosis (ALS)
+Anaplastic Adrenal Cancer - Adult with distant metastases or inoperable, unresectable or recurrent
+Anaplastic Ependymoma
+Angelman Syndrome
+Angioimmunoblastic T-Cell Lymphoma
+Angiosarcoma
+Aortic Atresia
+Aplastic Anemia
+Astrocytoma - Grade III and IV
+Ataxia Telangiectasia
+Atypical Teratoid/Rhabdoid Tumor
+Au-Kline Syndrome
+Bainbridge-Ropers Syndrome
+Batten Disease
+Beta Thalassemia Major
+Bilateral Anophthalmia
+Bilateral Optic Atrophy- Infantile
+Bilateral Retinoblastoma
+Bladder Cancer - with distant metastases or inoperable or unresectable
+Blastic Plasmacytoid Dendritic Cell Neoplasm
+Breast Cancer - with distant metastases or inoperable or unresectable
+CACH--Vanishing White Matter Disease-Infantile and Childhood Onset Forms
+Calciphylaxis
+Carey-Fineman-Ziter Syndrome
+Canavan Disease (CD)
+Carcinoma of Unknown Primary Site
+Cardiac Amyloidosis- AL Type
+Caudal Regression Syndrome - Types III and IV
+CDKL5 Deficiency Disorder
+Cerebro Oculo Facio Skeletal (COFS) Syndrome
+Cerebrotendinous Xanthomatosis
+Charlevoix-Saguenay Spastic Ataxia
+Child Heart Transplant Wait List – Status Levels 1A/1B
+Child Lymphoblastic Lymphoma
+Child Lymphoma
+Child Neuroblastoma - with distant metastases or recurrent
+Cholangiocarcinoma
+Chondrosarcoma - with multimodal therapy
+Choroid Plexus Carcinoma
+Chronic Idiopathic Intestinal Pseudo Obstruction
+Chronic Myelogenous Leukemia (CML) - Blast Phase
+CIC-rearranged Sarcoma
+Coffin-Lowry Syndrome
+Congenital Lymphedema
+Congenital Myotonic Dystrophy
+Congenital Zika Syndrome
+Cornelia de Lange Syndrome - Classic Form
+Corticobasal Degeneration
+Costello Syndrome
+Creutzfeldt-Jakob Disease (CJD) – Adult
+Cri du Chat Syndrome
+Degos Disease - Systemic
+DeSanctis Cacchione Syndrome
+Desmoplastic Mesothelioma
+Desmoplastic Small Round Cell Tumors
+Dravet Syndrome
+Duchenne Muscular Dystrophy- Adult
+Edwards Syndrome (Trisomy 18)
+Eisenmenger Syndrome
+Endometrial Stromal Sarcoma
+Endomyocardial Fibrosis
+Ependymoblastoma (Child Brain Cancer)
+Erdheim Chester Disease
+Esophageal Cancer
+Esthesioneuroblastoma
+Ewing Sarcoma
+Farber's Disease (FD) – Infantile
+Fatal Familial Insomnia
+Fibrodysplasia Ossificans Progressiva
+Fibrolamellar Cancer
+Follicular Dendritic Cell Sarcoma - metastatic or recurrent
+FOXG1 Syndrome
+Friedreich's Ataxia (FRDA)
+Frontotemporal Dementia (FTD), Pick's Disease -Type A – Adult
+Fryns Syndrome
+Fucosidosis - Type 1
+Fukuyama Congenital Muscular Dystrophy
+Fulminant Giant Cell Myocarditis
+Galactosialidosis - Early and Late Infantile Types
+Gallbladder Cancer
+Gaucher Disease (GD) - Type 2
+Gerstmann-Straussler-Scheinker Disease
+Giant Axonal Neuropathy
+Glioblastoma Multiforme (Brain Cancer)
+Glioma - Grade III and IV
+Glutaric Acidemia - Type II
+GM1 Gangliosidosis - Infantile and Juvenile Forms
+Harlequin Ichthyosis - Child
+Head and Neck Cancers - with distant metastasis or inoperable or unresectable
+Heart Transplant Graft Failure
+Hematopoietic Stem Cell Transplantation
+Hemophagocytic Lymphohistiocytosis (HLH) - Familial Type
+Hepatoblastoma
+Hepatocellular Carcinoma
+Hepatopulmonary Syndrome
+Hepatorenal Syndrome
+Histiocytic Malignancies
+Histiocytosis Syndromes
+Hoyeraal-Hreidarsson Syndrome
+Hutchinson-Gilford Progeria Syndrome
+Hydranencephaly
+Hypocomplementemic Urticarial Vasculitis Syndrome
+Hypophosphatasia Perinatal (Lethal) and Infantile Onset Types
+Hypoplastic Left Heart Syndrome
+I Cell Disease
+Idiopathic Pulmonary Fibrosis
+Infantile Free Sialic Acid Storage Disease
+Infantile Neuroaxonal Dystrophy (INAD)
+Infantile Neuronal Ceroid Lipofuscinoses
+Inflammatory Breast Cancer (IBC)
+Intracranial Hemangiopericytoma
+Jervell and Lange-Nielsen Syndrome
+Joubert Syndrome
+Junctional Epidermolysis Bullosa - Lethal Type
+Juvenile Onset Huntington Disease
+Kidney Cancer - inoperable or unresectable
+Kleefstra Syndrome
+Krabbe Disease (KD) – Infantile
+Kufs Disease - Type A and B
+Large Intestine Cancer - with distant metastasis or inoperable, unresectable or recurrent
+Late Infantile Neuronal Ceroid Lipofuscinoses
+Leber Congenital Amaurosis
+Leigh’s Disease
+Leiomyosarcoma
+Leptomeningeal Carcinomatosis
+Lesch-Nyhan Syndrome (LNS)
+Lewy Body Dementia
+Liposarcoma - metastatic or recurrent
+Lissencephaly
+LMNA-related Congenital Muscular Dystrophy
+Lowe Syndrome
+Lymphomatoid Granulomatosis - Grade III
+Malignant Brain Stem Gliomas – Childhood
+Malignant Ectomesenchymoma
+Malignant Gastrointestinal Stromal Tumor
+Malignant Germ Cell Tumor
+Malignant Multiple Sclerosis
+Malignant Renal Rhabdoid Tumor
+Mantle Cell Lymphoma (MCL)
+Maple Syrup Urine Disease
+Marshall-Smith Syndrome
+Mastocytosis - Type IV
+MECP2 Duplication Syndrome
+Medulloblastoma
+Megacystis Microcolon Intestinal Hypoperistalsis Syndrome
+Megalencephaly Capillary Malformation Syndrome
+Menkes Disease - Classic or Infantile Onset Form
+Merkel Cell Carcinoma - with metastases
+Merosin Deficient Congenital Muscular Dystrophy
+Metachromatic Leukodystrophy (MLD) - Late Infantile
+Metastatic Endometrial Adenocarcinoma
+Microvillus Inclusion Disease – Child
+Mitral Valve Atresia
+Mixed Dementias
+Mowat-Wilson Syndrome
+MPS I, formerly known as Hurler Syndrome
+MPS II, formerly known as Hunter Syndrome
+MPS III, formerly known as Sanfilippo Syndrome
+Mucosal Malignant Melanoma
+Multicentric Castleman Disease
+Multiple System Atrophy
+Myelodysplastic Syndrome with Excess Blasts
+Myoclonic Epilepsy with Ragged Red Fibers Syndrome
+Neonatal Adrenoleukodystrophy
+Neonatal Marfan Syndrome
+Nephrogenic Systemic Fibrosis
+Neurodegeneration with Brain Iron Accumulation - Types 1 and 2
+NFU-1 Mitochondrial Disease
+Nicolaides-Baraister Syndrome
+Niemann-Pick Disease (NPD) - Type A
+Niemann-Pick Disease-Type C
+Nonketotic Hyperglycinemia
+Non-Small Cell Lung Cancer
+NUT Carcinoma
+Obliterative Bronchiolitis
+Ohtahara Syndrome
+Oligodendroglioma Brain Cancer- Grade III
+Ornithine Transcarbamylase (OTC) Deficiency
+Orthochromatic Leukodystrophy with Pigmented Glia
+Osteogenesis Imperfecta (OI) - Type II
+Osteosarcoma, formerly known as Bone Cancer - with distant metastases or inoperable or unresectable
+Ovarian Cancer – with distant metastases or inoperable or unresectable
+PACS1 Syndrome
+Pallister-Killian Syndrome
+Pancreatic Cancer
+Paraneoplastic Cerebellar Degeneration
+Paraneoplastic Pemphigus
+Patau Syndrome (Trisomy 13)
+Pearson Syndrome
+Pelizaeus-Merzbacher Disease-Classic Form
+Pelizaeus-Merzbacher Disease-Connatal Form
+Pericardial Mesothelioma
+Peripheral Nerve Cancer - metastatic or recurrent
+Peritoneal Mesothelioma
+Peritoneal Mucinous Carcinomatosis
+Perry Syndrome
+Pfeiffer Syndrome - Types II and III
+Phelan-McDermid Syndrome
+Pineoblastoma - Childhood
+Pitt Hopkins Syndrome
+Plasmablastic Lymphoma
+Pleural Mesothelioma
+Pompe Disease – Infantile
+Pontocerebellar Hypoplasia
+Posterior Cortical Atrophy
+Primary Central Nervous System Lymphoma
+Primary Effusion Lymphoma
+Primary Omental Cancer
+Primary Peritoneal Cancer
+Primary Progressive Aphasia
+Progressive Bulbar Palsy
+Progressive Multifocal Leukoencephalopathy
+Progressive Muscular Atrophy
+Progressive Supranuclear Palsy
+Prostate Cancer - Hormone Refractory Disease – or with visceral metastases
+Pulmonary Amyloidosis - AL Type
+Pulmonary Atresia
+Pulmonary Kaposi Sarcoma
+Rasmussen Encephalitis
+Refractory Hodgkin Lymphoma
+Renal Amyloidosis - AL Type
+Renal Medullary Carcinoma
+Renpenning Syndrome
+Retinopathy of Prematurity - Stage V, Bilateral
+Rett (RTT) Syndrome
+Revesz Syndrome
+Rhabdomyosarcoma
+Rhizomelic Chondrodysplasia Punctata
+Richter Syndrome
+Roberts Syndrome
+Rubinstein-Taybi Syndrome
+Salivary Cancers
+Sandhoff Disease
+Sarcomatoid Carcinoma of the Lung - Stages II - IV
+Sarcomatoid Mesothelioma
+Schindler Disease - Type 1
+SCN8A Related Epilepsy with Encephalopathy
+Seckel Syndrome
+Secondary Adenocarcinoma of the Brain
+Severe Combined Immunodeficiency - Childhood
+Single Ventricle
+Sinonasal Cancer
+Sjogren-Larsson Syndrome
+Skin Malignant Melanoma with Metastases
+Small Cell Cancer Large Intestine
+Small Cell Cancer of the Female Genital Tract
+Small Cell Lung Cancer
+Small Intestine Cancer - with distant metastases or inoperable, unresectable or recurrent
+Smith Lemli Opitz Syndrome
+Snijders Blok-Campeau Syndrome
+Soft Tissue Sarcoma - with distant metastases or recurrent
+Spinal Muscular Atrophy (SMA) - Types 0 and 1
+Spinal Nerve Root Cancer-metastatic or recurrent
+Spinocerebellar Ataxia
+Stiff Person Syndrome
+Stomach Cancer - with distant metastases or inoperable, unresectable or recurrent
+Subacute Sclerosing Panencephalitis
+Superficial Siderosis of the Central Nervous System
+SYNGAP1-related NSID
+Tabes Dorsalis
+Tay Sachs Disease - Infantile Type
+Taybi-Linder Syndrome
+Tetrasomy 18p
+Thanatophoric Dysplasia - Type 1
+Thyroid Cancer
+Thymic Carcinoma
+Transplant Coronary Artery Vasculopathy
+Tricuspid Atresia
+Trisomy 9
+Turnpenny Fry Syndrome
+Ullrich Congenital Muscular Dystrophy
+Ureter Cancer - with distant metastases or inoperable, unresectable or recurrent
+Usher Syndrome - Type I
+Ventricular Assist Device Recipient - Left, Right, or Biventricular
+Walker Warburg Syndrome
+WHO Grade III Meningiomas
+Wolf-Hirschhorn Syndrome
+Wolman Disease
+X-Linked Lymphoproliferative Disease
+X-Linked Myotubular Myopathy
+Xeroderma Pigmentosum
+Young-Onset Alzheimer’s Disease
+Zellweger Syndrome
+Zhu-Tokita-Takenouchi-Kim Syndrome
+
