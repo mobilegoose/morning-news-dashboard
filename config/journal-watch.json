@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-07-20",
+  "purpose": "Machine-readable source and selection policy for the Morning News Dashboard journal update.",
+  "canonical_condition_registry": {
+    "source": "https://www.ssa.gov/compassionateallowances/conditions.htm",
+    "local_terms_file": "config/cal-conditions.txt",
+    "authority": "Use SSA as canonical. Do not substitute third-party CAL lists.",
+    "refresh": "Recheck monthly and whenever SSA announces a CAL change."
+  },
+  "discovery": {
+    "pubmed_help": "https://pubmed.ncbi.nlm.nih.gov/help/",
+    "date_strategy": "Use a rolling 72-hour [crdt] or [edat] window; do not use [dp] alone because issue dates may be future-dated.",
+    "staged_retrieval": [
+      "Collect metadata first: title, journal, electronic/record date, PMID, DOI, study type, abstract availability, and free-full-text URL.",
+      "Deduplicate by PMID, DOI, canonical URL, and articles published in the prior 14 dashboard archives.",
+      "Score metadata and titles before opening abstracts.",
+      "Open abstracts for at most the 15 highest-scoring candidates.",
+      "Open full text only for at most the 7 strongest candidates or when needed to verify a claim.",
+      "Publish no more than 3 detailed articles plus 2 compact also-new articles."
+    ],
+    "overlap_reason": "A 72-hour overlap reduces missed articles caused by indexing delays; deduplication prevents repetition.",
+    "search_fields": "Prefer Title/Abstract and MeSH-aware queries. Quote multiword rare conditions where useful, but retain aliases for priority topics.",
+    "access_rule": "A reader must be able to open the article text without payment or institutional login at publication time. Prefer PubMed Central, the official journal full text, or a DOAJ-listed journal. An abstract alone does not qualify as free full text.",
+    "no_padding": true
+  },
+  "output": {
+    "section_title": "New Free Journal Articles",
+    "conditional": true,
+    "placement": "Within Science, Medicine & Public Health",
+    "detailed_max": 3,
+    "compact_max": 2,
+    "required_fields": [
+      "linked article title",
+      "journal and actual online/electronic publication date",
+      "evidence label",
+      "study design, population, and sample size when available",
+      "main finding stated with appropriate uncertainty",
+      "why it matters to the user's interests",
+      "at least one important limitation",
+      "direct free full-text link"
+    ],
+    "evidence_labels": [
+      "Peer-reviewed study",
+      "Randomized trial",
+      "Systematic review/meta-analysis",
+      "Reviewed preprint",
+      "Federal research/report"
+    ]
+  },
+  "sources": [
+    {
+      "tier": 1,
+      "name": "Disability Studies Quarterly",
+      "url": "https://dsq-sds.org/index.php/dsq",
+      "type": "open-access journal",
+      "focus": "disability studies",
+      "notes": "Check new issues; may not be indexed promptly in PubMed."
+    },
+    {
+      "tier": 1,
+      "name": "Review of Disability Studies",
+      "url": "https://www.rdsjournal.org/",
+      "type": "open-access journal",
+      "focus": "disability studies and policy",
+      "notes": "Verify article-level date and full text."
+    },
+    {
+      "tier": 1,
+      "name": "Archives of Rehabilitation Research and Clinical Translation",
+      "url": "https://www.sciencedirect.com/journal/archives-of-rehabilitation-research-and-clinical-translation",
+      "type": "open-access journal",
+      "focus": "rehabilitation",
+      "notes": "Use articles in press/RSS when available."
+    },
+    {
+      "tier": 1,
+      "name": "Journal of NeuroEngineering and Rehabilitation",
+      "url": "https://link.springer.com/journal/12984",
+      "type": "open-access journal",
+      "focus": "neurorehabilitation and assistive technology",
+      "notes": "Official journal site moved to Springer Link."
+    },
+    {
+      "tier": 1,
+      "name": "International Journal of Telerehabilitation",
+      "url": "https://telerehab.hpu.edu/index.php/Telerehab",
+      "type": "open-access journal",
+      "focus": "telerehabilitation",
+      "notes": "Biannual; check only when a new issue/article appears."
+    },
+    {
+      "tier": 1,
+      "name": "Frontiers in Rehabilitation Sciences",
+      "url": "https://www.frontiersin.org/journals/rehabilitation-sciences",
+      "type": "open-access journal",
+      "focus": "rehabilitation sciences",
+      "notes": "Apply strict relevance and quality screening."
+    },
+    {
+      "tier": 1,
+      "name": "Health Equity",
+      "url": "https://journals.sagepub.com/home/heq",
+      "type": "open-access journal",
+      "focus": "health equity and access",
+      "notes": "Current publisher is SAGE; do not use the obsolete Liebert homepage."
+    },
+    {
+      "tier": 1,
+      "name": "International Journal for Equity in Health",
+      "url": "https://link.springer.com/journal/12939",
+      "type": "open-access journal",
+      "focus": "health equity and policy",
+      "notes": "Prioritize disability, access, and policy relevance."
+    },
+    {
+      "tier": 2,
+      "name": "PLOS Medicine",
+      "url": "https://journals.plos.org/plosmedicine/",
+      "type": "open-access journal",
+      "focus": "clinical and public-health research",
+      "notes": "High-priority broad journal."
+    },
+    {
+      "tier": 2,
+      "name": "JAMA Network Open",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen",
+      "type": "open-access journal",
+      "focus": "clinical and health-policy research",
+      "notes": "Use article-level full-text links."
+    },
+    {
+      "tier": 2,
+      "name": "BMJ Open",
+      "url": "https://bmjopen.bmj.com/",
+      "type": "open-access journal",
+      "focus": "clinical and health-services research",
+      "notes": "Downrank protocols unless uniquely important."
+    },
+    {
+      "tier": 2,
+      "name": "eLife",
+      "url": "https://elifesciences.org/",
+      "type": "open-access reviewed-preprint platform/journal",
+      "focus": "biomedical research",
+      "notes": "Label current research as a Reviewed preprint when applicable; do not imply ordinary accept/reject peer review."
+    },
+    {
+      "tier": 2,
+      "name": "BMC Medicine",
+      "url": "https://link.springer.com/journal/12916",
+      "type": "open-access journal",
+      "focus": "clinical and public-health research",
+      "notes": "Official journal site moved to Springer Link."
+    },
+    {
+      "tier": 2,
+      "name": "Nature Communications",
+      "url": "https://www.nature.com/ncomms/",
+      "type": "open-access journal",
+      "focus": "multidisciplinary research",
+      "notes": "Apply topic filter before opening full text."
+    },
+    {
+      "tier": 2,
+      "name": "PLOS Global Public Health",
+      "url": "https://journals.plos.org/globalpublichealth/",
+      "type": "open-access journal",
+      "focus": "public health and equity",
+      "notes": "Prioritize disability and access relevance."
+    },
+    {
+      "tier": 2,
+      "name": "Health Affairs Scholar",
+      "url": "https://academic.oup.com/healthaffairsscholar",
+      "type": "open-access journal",
+      "focus": "health policy",
+      "notes": "Use RSS/latest issue pages and direct article links."
+    },
+    {
+      "tier": 3,
+      "name": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/",
+      "type": "open-access journal",
+      "focus": "multidisciplinary research",
+      "notes": "Very broad; search only with high-priority topic/CAL terms and strong research signals."
+    },
+    {
+      "tier": 3,
+      "name": "Frontiers in Public Health",
+      "url": "https://www.frontiersin.org/journals/public-health",
+      "type": "open-access journal",
+      "focus": "public health",
+      "notes": "Very broad; require strong relevance and assess study quality."
+    },
+    {
+      "tier": 4,
+      "name": "Social Security Bulletin",
+      "url": "https://www.ssa.gov/policy/docs/ssb/",
+      "type": "federal research publication",
+      "focus": "Social Security and disability policy",
+      "notes": "Not a conventional medical journal; label Federal research/report."
+    },
+    {
+      "tier": 4,
+      "name": "NIDILRR Publications and Resources",
+      "url": "https://acl.gov/aging-and-disability-in-america/data-and-research/nidilrr-publications-and-resources",
+      "type": "federal research aggregator",
+      "focus": "disability, independent living, and rehabilitation",
+      "notes": "Not a journal. Verify the linked article/report is currently free; public-access release may be delayed."
+    }
+  ],
+  "article_level_sources": {
+    "policy": "Articles from other reputable hybrid journals may qualify only when the exact article is currently free in full text.",
+    "examples": [
+      "New England Journal of Medicine",
+      "JAMA",
+      "The Lancet",
+      "Nature Medicine",
+      "Disability and Health Journal",
+      "Disability and Rehabilitation"
+    ],
+    "warning": "Do not describe a journal as fully open access merely because one article is free."
+  }
+}
+
