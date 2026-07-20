@@ -1,0 +1,323 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-07-20",
+  "purpose": "Topic, synonym, ranking, and query-construction rules for journal discovery.",
+  "priority_topics": [
+    {
+      "id": "cancer",
+      "weight": 6,
+      "terms": [
+        "cancer",
+        "oncology",
+        "neoplasm",
+        "carcinoma",
+        "sarcoma",
+        "leukemia",
+        "lymphoma",
+        "myeloma",
+        "tumor",
+        "metastatic disease"
+      ],
+      "notes": "Boost new treatments, trials, diagnostics, biomarkers, prevention, survival, and functional outcomes."
+    },
+    {
+      "id": "alzheimers_dementia",
+      "weight": 6,
+      "terms": [
+        "Alzheimer disease",
+        "Alzheimer's disease",
+        "young-onset Alzheimer disease",
+        "early-onset Alzheimer disease",
+        "dementia",
+        "mild cognitive impairment",
+        "Lewy body dementia",
+        "frontotemporal dementia"
+      ],
+      "notes": "Boost disease-modifying treatment, early detection, biomarkers, caregiving, function, and policy."
+    },
+    {
+      "id": "mental_health",
+      "weight": 6,
+      "terms": [
+        "mental health",
+        "psychiatric disability",
+        "serious mental illness",
+        "depression",
+        "anxiety disorder",
+        "bipolar disorder",
+        "schizophrenia",
+        "psychosis",
+        "post-traumatic stress disorder",
+        "PTSD",
+        "obsessive-compulsive disorder",
+        "eating disorder",
+        "suicide prevention"
+      ],
+      "notes": "Require concrete research or policy findings; avoid generic wellness commentary."
+    },
+    {
+      "id": "spine",
+      "weight": 6,
+      "terms": [
+        "spine",
+        "spinal cord",
+        "spinal cord injury",
+        "myelopathy",
+        "radiculopathy",
+        "cervical stenosis",
+        "lumbar stenosis",
+        "degenerative disc disease",
+        "back pain",
+        "spinal rehabilitation"
+      ],
+      "notes": "Boost treatment, surgery, devices, pain, mobility, work capacity, and rehabilitation outcomes."
+    },
+    {
+      "id": "brain",
+      "weight": 6,
+      "terms": [
+        "brain",
+        "traumatic brain injury",
+        "TBI",
+        "acquired brain injury",
+        "neurodegeneration",
+        "epilepsy",
+        "brain tumor",
+        "cognitive impairment",
+        "neurorehabilitation"
+      ],
+      "notes": "Use context to avoid incidental uses of brain."
+    },
+    {
+      "id": "stroke",
+      "weight": 6,
+      "terms": [
+        "stroke",
+        "cerebrovascular accident",
+        "ischemic stroke",
+        "hemorrhagic stroke",
+        "post-stroke",
+        "stroke rehabilitation"
+      ],
+      "notes": "Boost acute treatment, prevention, recovery, cognition, speech, mobility, and return-to-work outcomes."
+    },
+    {
+      "id": "long_covid",
+      "weight": 7,
+      "terms": [
+        "Long COVID",
+        "post-COVID condition",
+        "post-acute sequelae of SARS-CoV-2 infection",
+        "PASC",
+        "ME/CFS",
+        "myalgic encephalomyelitis",
+        "dysautonomia",
+        "postural orthostatic tachycardia syndrome",
+        "POTS",
+        "post-viral illness"
+      ],
+      "notes": "Require genuinely new evidence; distinguish trials, observational findings, reviews, and hypotheses."
+    },
+    {
+      "id": "disability_function_rehab",
+      "weight": 5,
+      "terms": [
+        "disability",
+        "functional limitation",
+        "activities of daily living",
+        "work disability",
+        "work capacity",
+        "return to work",
+        "rehabilitation",
+        "independent living",
+        "assistive technology",
+        "caregiver burden"
+      ],
+      "notes": "Boost outcomes that affect daily function, eligibility evidence, or access."
+    }
+  ],
+  "cal_search": {
+    "canonical_file": "config/cal-conditions.txt",
+    "weight": 7,
+    "method": [
+      "Search every canonical CAL condition over the rolling window, split into manageable alphabetical batches rather than one giant Boolean query.",
+      "Use the canonical term plus a shorter disease name when the SSA label contains severity, metastasis, operability, age, stage, or wait-list qualifiers.",
+      "Use the priority-topic aliases in this file in addition to the CAL terms.",
+      "Treat ambiguous acronyms such as ALS, ALX, CJD, MCL, MLD, OTC, POTS, and SMA as qualified medical terms, not bare uncontextual acronyms."
+    ]
+  },
+  "research_signals": {
+    "discovery_terms": [
+      "discovery",
+      "mechanism",
+      "pathogenesis",
+      "biomarker",
+      "diagnosis",
+      "screening",
+      "early detection",
+      "prognosis",
+      "progression",
+      "prevention",
+      "incidence",
+      "risk factor"
+    ],
+    "treatment_terms": [
+      "treatment",
+      "therapy",
+      "therapeutic",
+      "clinical trial",
+      "randomized trial",
+      "drug",
+      "biologic",
+      "gene therapy",
+      "cell therapy",
+      "immunotherapy",
+      "targeted therapy",
+      "medical device",
+      "surgery",
+      "rehabilitation",
+      "intervention",
+      "FDA approval"
+    ],
+    "evidence_terms": [
+      "systematic review",
+      "meta-analysis",
+      "practice guideline",
+      "consensus statement",
+      "randomized controlled trial",
+      "phase 1",
+      "phase 2",
+      "phase 3",
+      "cohort study",
+      "longitudinal study"
+    ],
+    "boost_rule": "A priority or CAL condition plus a discovery, treatment, or strong evidence term receives the highest research priority."
+  },
+  "policy_topics": [
+    {
+      "id": "social_security_disability",
+      "weight": 7,
+      "terms": [
+        "SSDI",
+        "SSI",
+        "Social Security Disability Insurance",
+        "Social Security disability",
+        "disability determination",
+        "disability adjudication",
+        "impairment listing",
+        "Compassionate Allowances",
+        "CAL",
+        "substantial gainful activity",
+        "SGA",
+        "residual functional capacity",
+        "RFC",
+        "vocational evidence",
+        "return to work"
+      ]
+    },
+    {
+      "id": "health_access_policy",
+      "weight": 6,
+      "terms": [
+        "Medicare",
+        "Medicaid",
+        "health insurance",
+        "healthcare access",
+        "health care access",
+        "treatment access",
+        "prior authorization",
+        "coverage policy",
+        "health disparities",
+        "disability policy",
+        "long-term services and supports",
+        "LTSS",
+        "home- and community-based services",
+        "HCBS"
+      ]
+    },
+    {
+      "id": "medical_policy",
+      "weight": 5,
+      "terms": [
+        "FDA policy",
+        "CDC guidance",
+        "NIH policy",
+        "CMS rule",
+        "SSA policy",
+        "clinical guideline",
+        "public health policy",
+        "medical regulation",
+        "federal disability policy",
+        "state disability policy"
+      ]
+    }
+  ],
+  "scoring": {
+    "positive": [
+      {
+        "points": 7,
+        "signal": "Direct CAL-condition match"
+      },
+      {
+        "points": 6,
+        "signal": "Direct priority-topic match"
+      },
+      {
+        "points": 5,
+        "signal": "New treatment, clinical trial, major discovery, diagnostic advance, or systematic review"
+      },
+      {
+        "points": 4,
+        "signal": "Direct SSDI/SSI, disability-determination, Medicare/Medicaid, or health-access policy relevance"
+      },
+      {
+        "points": 3,
+        "signal": "Strong study design or actionable functional/rehabilitation outcome"
+      },
+      {
+        "points": 2,
+        "signal": "Published/created in the last 24 hours"
+      }
+    ],
+    "negative": [
+      {
+        "points": -8,
+        "signal": "No verified free full text"
+      },
+      {
+        "points": -5,
+        "signal": "Editorial, generic commentary, press-release-only claim, or protocol without results"
+      },
+      {
+        "points": -4,
+        "signal": "Future print issue date with no verified electronic publication date"
+      },
+      {
+        "points": -3,
+        "signal": "Incidental keyword mention or weak relevance"
+      },
+      {
+        "points": -3,
+        "signal": "Previously published in a dashboard archive"
+      }
+    ],
+    "tie_breakers": [
+      "clinical importance",
+      "quality of evidence",
+      "novelty",
+      "practical relevance",
+      "source quality",
+      "recency"
+    ]
+  },
+  "accuracy_rules": [
+    "Show the electronic/online publication date when available and do not present a future issue date as the date the research became available.",
+    "Separate association from causation and animal/laboratory findings from human clinical evidence.",
+    "Do not call a preprint peer reviewed. Apply eLife's Reviewed preprint label when appropriate.",
+    "Report sample size and population; do not generalize beyond the studied population.",
+    "Include at least one material limitation and avoid promising that early-stage results are an available treatment.",
+    "Prefer the article itself over a news release; a release may be a companion link only.",
+    "If the article cannot be read beyond an abstract, exclude it from the free-journal section."
+  ]
+}
+
