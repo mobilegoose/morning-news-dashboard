@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#17324d">
+<title>Morning News Dashboard</title>
+<style>
+:root{color-scheme:light dark;--navy:#17324d;--blue:#245f91;--sky:#eaf3fa;--paper:#fffdf8;--canvas:#edf1f4;--ink:#17212b;--muted:#5d6873;--line:#d8e0e6;--accent:#c86b3c;--shadow:0 10px 30px rgba(23,50,77,.08)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--canvas);color:var(--ink);line-height:1.55}
+.shell{width:min(100%,1040px);min-height:100vh;margin:0 auto;background:var(--paper);box-shadow:var(--shadow)}
+header{padding:30px 20px 24px;color:#fff;background:radial-gradient(circle at 90% 10%,rgba(255,255,255,.16),transparent 34%),linear-gradient(135deg,#17324d,#245f91)}
+.eyebrow{margin:0 0 5px;color:#cfe5f6;font-size:.78rem;font-weight:850;letter-spacing:.11em;text-transform:uppercase}
+h1,h2,h3{margin:0;font-family:Georgia,"Times New Roman",serif;line-height:1.18}h1{font-size:clamp(2rem,9vw,3.5rem);line-height:1.04;letter-spacing:-.03em}.date{margin:10px 0 0;color:#e7f2fa;font-size:.95rem}
+.header-actions{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}.pill{display:inline-flex;min-height:36px;align-items:center;gap:7px;padding:7px 11px;border:1px solid rgba(255,255,255,.28);border-radius:999px;color:#fff;background:rgba(255,255,255,.12);font-size:.8rem;font-weight:800;text-decoration:none}.pill:before{width:8px;height:8px;border-radius:50%;background:#5fe08b;content:""}
+nav{display:flex;gap:8px;padding:12px 16px;overflow-x:auto;background:white;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:2;scrollbar-width:none}nav::-webkit-scrollbar{display:none}nav a{flex:0 0 auto;padding:8px 12px;border:1px solid var(--line);border-radius:999px;color:var(--navy);font-size:.84rem;font-weight:800;text-decoration:none;background:white}nav a:first-child{color:white;background:var(--navy);border-color:var(--navy)}
+main{padding:18px 16px 52px}.intro{display:grid;gap:10px;margin-bottom:16px}.intro p{margin:0;color:var(--muted);font-size:.94rem}.status-row{display:flex;flex-wrap:wrap;gap:8px}.status{display:inline-flex;align-items:center;gap:6px;padding:6px 9px;border-radius:999px;background:#e8f6ed;color:#23623b;font-size:.78rem;font-weight:850}.status.pending{background:#fff3d6;color:#8a5b00}.status:before{width:8px;height:8px;border-radius:50%;background:currentColor;content:""}
+.lead,.story,.note-card{border:1px solid var(--line);border-radius:18px;background:white}.lead{padding:20px;border-top:5px solid var(--accent);box-shadow:var(--shadow)}.label,.topic{color:var(--accent);font-size:.73rem;font-weight:850;letter-spacing:.08em;text-transform:uppercase}.label{display:inline-block;margin-bottom:9px}h2{font-size:clamp(1.45rem,6vw,2rem)}h3{font-size:1.18rem}.summary{margin:10px 0 14px;color:#394550}.why{margin:0;padding:11px 13px;border-radius:10px;background:var(--sky);color:var(--navy);font-size:.9rem}.why strong{display:block}.source{display:inline-flex;min-height:44px;margin-top:14px;align-items:center;color:var(--blue);font-weight:850;text-decoration-thickness:2px;text-underline-offset:3px}
+.section-title{display:flex;align-items:baseline;justify-content:space-between;gap:12px;margin:30px 2px 12px}.section-title h2{color:var(--navy);font-size:1.35rem}.section-title span{color:var(--muted);font-size:.8rem;text-align:right}.grid{display:grid;gap:12px}.story,.note-card{padding:16px}.topic{margin:0 0 7px;color:var(--blue)}.story p:last-child,.note-card p{margin:8px 0 0;color:var(--muted);font-size:.92rem}.story a,.note-card a{color:var(--blue);font-weight:800}
+details{margin-top:28px;border:1px dashed var(--line);border-radius:16px;background:#fbfcfd;padding:14px}summary{cursor:pointer;color:var(--navy);font-weight:850}code{white-space:normal;overflow-wrap:anywhere;background:#eef3f7;border-radius:6px;padding:1px 5px}.mini-list{margin:10px 0 0;padding-left:1.1rem;color:var(--muted);font-size:.92rem}
+footer{padding:22px 16px;border-top:1px solid var(--line);color:var(--muted);background:#f7f8f8;font-size:.82rem;text-align:center}a:focus-visible,summary:focus-visible{outline:3px solid #f1b48e;outline-offset:3px}
+@media(min-width:720px){header{padding:42px 40px 30px}nav{padding-inline:40px}main{padding:28px 40px 68px}.intro{grid-template-columns:1fr auto;align-items:center}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.grid.three{grid-template-columns:repeat(3,minmax(0,1fr))}.lead{padding:28px}}
+@media(prefers-color-scheme:dark){:root{--paper:#171d23;--canvas:#0f1419;--ink:#eef3f7;--muted:#bac4ce;--line:#35414c;--sky:#1f3345;--blue:#9fcbff}nav,.lead,.story,.note-card{background:#1d242b}nav a{background:#1d242b;color:#d7e9ff}.summary{color:#d9e2ea}.why{color:#d7e9ff}.status{background:#173523}.status.pending{background:#3f3219}details{background:#1d242b}code{background:#24313c}footer{background:#141a20}}
+</style>
+</head>
+<body>
+<div class="shell">
+<header>
+<p class="eyebrow">Personal daily briefing</p>
+<h1>Morning News Dashboard</h1>
+<p class="date">Setup edition · Ready for daily publishing</p>
+<div class="header-actions" aria-label="Dashboard status"><span class="pill">GitHub Pages live</span><span class="pill">Stable phone link</span><span class="pill">Daily briefing target</span></div>
+</header>
+<nav aria-label="Briefing sections">
+<a href="#top5">Top 5</a><a href="#useful">Most useful</a><a href="#legal">Legal</a><a href="#policy">Policy &amp; benefits</a><a href="#health">Health</a><a href="#ai">AI</a><a href="#listen">Listen</a><a href="#archive">Archive</a><a href="#update-notes">Update notes</a>
+</nav>
+<main>
+<div class="intro"><p>This is the stable dashboard page for the personalized morning briefing. The home-screen link stays the same; the content in this page gets replaced with each day’s current briefing.</p><div class="status-row"><span class="status">Dashboard live</span><span class="status pending">Daily update pending</span></div></div>
+
+<!-- DAILY_BRIEFING_START -->
+<article class="lead" id="top5">
+<span class="label">Top 5 Things to Know Today</span>
+<h2>Daily briefing content will publish here</h2>
+<p class="summary">This setup page is ready to be replaced by the daily news briefing. The daily update should put the five most important same-day or late-yesterday developments first, ranked by broad public importance.</p>
+<p class="why"><strong>Why it matters</strong>The dashboard solves the broken-link problem by using one stable GitHub Pages link instead of temporary ChatGPT sandbox file links.</p>
+<a class="source" href="https://mobilegoose.github.io/morning-news-dashboard/">Open the stable dashboard link →</a>
+</article>
+
+<div class="section-title"><h2>Today’s briefing structure</h2><span>Template slots</span></div>
+<section class="grid" aria-label="Top briefing slots">
+<article class="story"><p class="topic">Top 5 · Slot 1</p><h3>Major same-day public development</h3><p>Use this for the day’s highest-impact event: federal action, war/geopolitics, court decision, agency rule, major public-health alert, or similar concrete development.</p></article>
+<article class="story"><p class="topic">Top 5 · Slot 2</p><h3>Legal, court, or agency action</h3><p>Use this for Supreme Court orders, federal court rulings, DOJ/DHS/HHS/SSA/CMS/FDA/CDC action, or other official developments with legal consequences.</p></article>
+<article class="story"><p class="topic">Top 5 · Slot 3</p><h3>Benefits, immigration, civil rights, or healthcare access</h3><p>Use this for updates affecting ordinary households, disabled people, immigrants, mixed-status families, Medicare/Medicaid recipients, workers, students, or patients.</p></article>
+<article class="story"><p class="topic">Top 5 · Slot 4</p><h3>Science, medicine, or public health</h3><p>Use this for FDA warnings, CDC/NIH updates, study releases, disease outbreaks, Long COVID/disability research, or healthcare-system changes.</p></article>
+<article class="story"><p class="topic">Top 5 · Slot 5</p><h3>AI policy, tools, or infrastructure</h3><p>Use this for real model/tool releases, coding-agent updates, AI regulation, enforcement, litigation, research, or infrastructure developments.</p></article>
+<article class="story" id="useful"><p class="topic">Most useful development</p><h3>Practical action item of the day</h3><p>This should be the one thing most worth acting on or tracking: a deadline, recall, eligibility change, new rule, guidance update, or practical risk.</p></article>
+</section>
+
+<div class="section-title" id="legal"><h2>Supreme Court &amp; Legal News</h2><span>Official-first</span></div>
+<section class="grid" aria-label="Legal briefing">
+<article class="story"><p class="topic">SCOTUS / federal courts</p><h3>Official court action goes here</h3><p>Include new opinions, emergency orders, cert grants, docket actions, major appellate rulings, or a brief “no new SCOTUS action found” note with official links.</p></article>
+<article class="story"><p class="topic">DOJ / enforcement / litigation</p><h3>Legal researcher filter</h3><p>Prioritize new rights, obligations, procedures, deadlines, eligibility rules, agency interpretations, enforcement priorities, or litigation with practical consequences.</p></article>
+</section>
+
+<div class="section-title" id="policy"><h2>Policy, Benefits, Immigration, Civil Rights, Disability, Healthcare Access</h2><span>Household impact</span></div>
+<section class="grid" aria-label="Policy and benefits briefing">
+<article class="story"><p class="topic">Benefits &amp; disability</p><h3>SSA, SSDI, SSI, Medicare, Medicaid</h3><p>Include official SSA/CMS/HHS updates, Medicaid/Medicare access issues, disability rights, Long COVID/disability policy, and benefits deadlines.</p></article>
+<article class="story"><p class="topic">Immigration &amp; civil rights</p><h3>DHS, USCIS, ICE, DOJ, courts</h3><p>Include policy shifts, enforcement changes, litigation, due-process issues, voting rights, education access, housing, labor, and civil-rights enforcement.</p></article>
+</section>
+
+<div class="section-title" id="health"><h2>Science, Medicine &amp; Public Health</h2><span>Health scan</span></div>
+<section class="grid" aria-label="Science and health briefing">
+<article class="story"><p class="topic">Public health</p><h3>FDA / CDC / NIH / KFF / STAT</h3><p>Include outbreak updates, recalls, safety alerts, new data, credible medical research, public-health guidance, and healthcare access effects.</p></article>
+<article class="story"><p class="topic">Long COVID / post-viral illness</p><h3>Disability-relevant research</h3><p>Include genuinely new Long COVID, ME/CFS, post-viral, disability, and functional-impairment research or credible health-policy coverage.</p></article>
+</section>
+
+<div class="section-title" id="ai"><h2>AI Today</h2><span>Tools + policy</span></div>
+<section class="grid" aria-label="AI briefing">
+<article class="story"><p class="topic">AI policy / law</p><h3>Regulation, litigation, security, enforcement</h3><p>Include concrete government action, court developments, security guidance, agency policy, or regulatory changes affecting AI use.</p></article>
+<article class="story"><p class="topic">AI tools / coding agents</p><h3>Real releases, not hype</h3><p>Include official release notes from OpenAI, Anthropic, Google, GitHub, Cursor, Windsurf, OpenRouter, Replit, Vercel, LangChain, and similar sources.</p></article>
+</section>
+
+<div class="section-title" id="listen"><h2>Listen / Watch Later</h2><span>3–5 picks</span></div>
+<section class="grid" aria-label="Listen and watch later">
+<article class="story"><p class="topic">Podcast / video slot</p><h3>Specific episode title, date, and direct link</h3><p>Each daily briefing should include specific episode/video links, not generic podcast homepages, with a short explanation of why it fits.</p></article>
+<article class="story"><p class="topic">Accessible later</p><h3>Audio that fits the user’s interests</h3><p>Prefer law, policy, benefits, healthcare, science, public health, disability, immigration, civil rights, AI tools, and thoughtful world-affairs episodes.</p></article>
+</section>
+<!-- DAILY_BRIEFING_END -->
+
+<div class="section-title" id="archive"><h2>Archive</h2><span>Coming next</span></div>
+<section class="grid three" aria-label="Archive status">
+<article class="note-card"><h3>Today</h3><p><code>index.html</code> should always show the latest briefing.</p></article>
+<article class="note-card"><h3>Daily archive</h3><p>Future updates should save permanent copies as <code>archive/YYYY-MM-DD.html</code> and <code>archive/YYYY-MM-DD.md</code>.</p></article>
+<article class="note-card"><h3>Stable phone link</h3><p>The home-screen icon should always open <a href="https://mobilegoose.github.io/morning-news-dashboard/">mobilegoose.github.io/morning-news-dashboard</a>.</p></article>
+</section>
+
+<details id="update-notes"><summary>Dashboard update notes for GPT Work / Codex</summary>
+<p>This page is intended to be overwritten by the daily briefing. The updater should preserve the mobile-readable layout and replace the section between <code>DAILY_BRIEFING_START</code> and <code>DAILY_BRIEFING_END</code>, or replace the full page with an equivalent layout.</p>
+<ul class="mini-list"><li>Update <code>index.html</code> with today’s full briefing.</li><li>Create <code>archive/YYYY-MM-DD.html</code> and <code>archive/YYYY-MM-DD.md</code>.</li><li>Use direct source links for every item.</li><li>Do not use ChatGPT sandbox links as the daily delivery link.</li><li>Final notification should point to the stable GitHub Pages URL.</li></ul>
+</details>
+</main>
+<footer>Morning News Dashboard · Stable GitHub Pages delivery · Replace this setup edition with the daily briefing.</footer>
+</div>
+</body>
+</html>
