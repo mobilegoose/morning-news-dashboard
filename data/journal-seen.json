@@ -1,6 +1,30 @@
 {
-  "schema_version": 1,
-  "last_updated": null,
-  "articles": []
+  "updated_at": "2026-07-21T10:30:00-04:00",
+  "articles": [
+    {
+      "pmid": null,
+      "doi": "10.1093/braincomms/fcag252",
+      "canonical_url": "https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcag252/8724072",
+      "title": "Communication makes intensive language therapy more efficient: a randomized-controlled trial in chronic post-stroke aphasia",
+      "topic": "stroke rehabilitation",
+      "publication_date": "2026-07-18"
+    },
+    {
+      "pmid": "42473637",
+      "doi": "10.1093/braincomms/fcag188",
+      "canonical_url": "https://academic.oup.com/braincomms/article/8/4/fcag188/8728449",
+      "title": "Soluble high-molecular-weight amyloid-β species derived from amyloid-β-laden brains induce cerebral β-amyloidosis",
+      "topic": "Alzheimer's disease",
+      "publication_date": "2026-07-20"
+    },
+    {
+      "pmid": "42456135",
+      "doi": "10.1056/NEJMoa2600157",
+      "canonical_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2600157",
+      "title": "Duration of Lenalidomide Maintenance in Multiple Myeloma",
+      "topic": "cancer",
+      "publication_date": "2026-07-16"
+    }
+  ]
 }
 
