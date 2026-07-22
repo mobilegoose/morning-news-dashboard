@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-07-21T10:30:00-04:00",
+  "updated_at": "2026-07-22T10:30:00-04:00",
   "articles": [
     {
       "pmid": null,
-      "doi": "10.1093/braincomms/fcag252",
-      "canonical_url": "https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcag252/8724072",
-      "title": "Communication makes intensive language therapy more efficient: a randomized-controlled trial in chronic post-stroke aphasia",
-      "topic": "stroke rehabilitation",
-      "publication_date": "2026-07-18"
+      "doi": "10.1093/braincomms/fcag288",
+      "canonical_url": "https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcag288/8739682",
+      "title": "Neurocircuit dysfunction during an emotional interference task in combat veterans with post-traumatic stress and mild traumatic brain injury",
+      "topic": "mental health; traumatic brain injury",
+      "publication_date": "2026-07-22"
+    },
+    {
+      "pmid": null,
+      "doi": "10.1093/braincomms/fcag287",
+      "canonical_url": "https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcag287/8739474",
+      "title": "Multi-cohort plasma proteomics identifies ANTXR2 and physical activity-related networks linked to neurodegeneration",
+      "topic": "Alzheimer's disease and dementias; function",
+      "publication_date": "2026-07-21"
+    },
+    {
+      "pmid": null,
+      "doi": "10.1093/braincomms/fcag277",
+      "canonical_url": "https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcag277/8739165",
+      "title": "Brain-derived extracellular-vesicle microRNAs across Alzheimer's disease and frontotemporal dementia",
+      "topic": "Alzheimer's disease and dementias",
+      "publication_date": "2026-07-21"
     },
     {
       "pmid": "42473637",
@@ -16,6 +32,14 @@
       "title": "Soluble high-molecular-weight amyloid-β species derived from amyloid-β-laden brains induce cerebral β-amyloidosis",
       "topic": "Alzheimer's disease",
       "publication_date": "2026-07-20"
+    },
+    {
+      "pmid": null,
+      "doi": "10.1093/braincomms/fcag252",
+      "canonical_url": "https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcag252/8724072",
+      "title": "Communication makes intensive language therapy more efficient: a randomized-controlled trial in chronic post-stroke aphasia",
+      "topic": "stroke rehabilitation",
+      "publication_date": "2026-07-18"
     },
     {
       "pmid": "42456135",
@@ -27,4 +51,3 @@
     }
   ]
 }
-
