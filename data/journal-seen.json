@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22T10:30:00-04:00",
+  "updated_at": "2026-07-23T10:31:00-04:00",
   "articles": [
     {
       "pmid": null,
@@ -7,6 +7,30 @@
       "canonical_url": "https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcag288/8739682",
       "title": "Neurocircuit dysfunction during an emotional interference task in combat veterans with post-traumatic stress and mild traumatic brain injury",
       "topic": "mental health; traumatic brain injury",
+      "publication_date": "2026-07-22"
+    },
+    {
+      "pmid": null,
+      "doi": "10.1186/s12984-026-02100-9",
+      "canonical_url": "https://link.springer.com/article/10.1186/s12984-026-02100-9",
+      "title": "Temporal synchrony promotes motor recovery and ipsilesional cortical reorganization in BCI-based stroke rehabilitation: a randomized controlled trial",
+      "topic": "stroke rehabilitation; brain-computer interface",
+      "publication_date": "2026-07-22"
+    },
+    {
+      "pmid": null,
+      "doi": "10.3389/fresc.2026.1777330",
+      "canonical_url": "https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2026.1777330/full",
+      "title": "Functional capacity evaluations in medico-legal contexts: a scoping review of best practices, limitations, and areas for improvement",
+      "topic": "disability assessment; work capacity; SSDI policy research",
+      "publication_date": "2026-07-22"
+    },
+    {
+      "pmid": null,
+      "doi": "10.1186/s12984-026-02104-5",
+      "canonical_url": "https://link.springer.com/article/10.1186/s12984-026-02104-5",
+      "title": "Visual feedback increases expiratory muscle training effort in Parkinson's disease: a randomised crossover trial",
+      "topic": "neurologic rehabilitation; Parkinson's disease",
       "publication_date": "2026-07-22"
     },
     {
