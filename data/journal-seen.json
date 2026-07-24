@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-07-23T10:31:00-04:00",
+  "updated_at": "2026-07-24T10:31:00-04:00",
   "articles": [
+    {
+      "pmid": "42495800",
+      "doi": "10.1002/epd2.70353",
+      "canonical_url": "https://onlinelibrary.wiley.com/doi/full/10.1002/epd2.70353",
+      "title": "The effectiveness of adding on or switching antiseizure medications after the first fails to control focal epilepsy: A systematic review of randomized controlled trials",
+      "topic": "epilepsy; treatment evidence",
+      "publication_date": "2026-07-24"
+    },
+    {
+      "pmid": "42493630",
+      "doi": "10.1007/s11136-026-04340-7",
+      "canonical_url": "https://link.springer.com/article/10.1007/s11136-026-04340-7",
+      "title": "Item comprehension and content coverage of patient-reported outcome measures for long COVID: a qualitative study",
+      "topic": "long COVID; clinical outcomes; function",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "pmid": "42494776",
+      "doi": "10.1002/dad2.70381",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13392915/",
+      "title": "Impact of an 18-month non-native language intervention on episodic memory and the underlying neural mechanisms in cognitively unimpaired older adults",
+      "topic": "Alzheimer's disease and dementias; cognitive function",
+      "publication_date": "2026-07-23"
+    },
+    {
+      "pmid": "42494173",
+      "doi": "10.1002/acn3.70499",
+      "canonical_url": "https://onlinelibrary.wiley.com/doi/full/10.1002/acn3.70499",
+      "title": "Troponin T and Neurofilament Light Chain Levels as Complementary Biomarkers of Disease Accumulation and Aggressiveness in Amyotrophic Lateral Sclerosis",
+      "topic": "amyotrophic lateral sclerosis; biomarkers; Compassionate Allowances",
+      "publication_date": "2026-07-23"
+    },
     {
       "pmid": null,
       "doi": "10.1093/braincomms/fcag288",
