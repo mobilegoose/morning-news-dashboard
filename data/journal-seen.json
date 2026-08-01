@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-07-24T10:31:00-04:00",
+  "updated_at": "2026-08-01T10:45:00-04:00",
   "articles": [
+    {
+      "pmid": null,
+      "doi": "10.1001/jamanetworkopen.2026.26522",
+      "canonical_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2852336",
+      "title": "Remote Patient Monitoring Adoption for Hypertension Management Among Medicare Beneficiaries",
+      "topic": "Medicare policy; hypertension; remote patient monitoring",
+      "publication_date": "2026-07-31"
+    },
+    {
+      "pmid": null,
+      "doi": "10.1001/jamanetworkopen.2026.26634",
+      "canonical_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2852333",
+      "title": "Neighborhood Environmental Interventions and Opioid Overdose Rates",
+      "topic": "mental health; substance use; public health policy",
+      "publication_date": "2026-07-31"
+    },
+    {
+      "pmid": null,
+      "doi": "10.1001/jamanetworkopen.2026.26530",
+      "canonical_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2852339",
+      "title": "Probiotic-Associated Invasive Infection Among Preterm Infants",
+      "topic": "medical safety; pediatrics",
+      "publication_date": "2026-07-31"
+    },
     {
       "pmid": "42495800",
       "doi": "10.1002/epd2.70353",
