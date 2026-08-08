@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-01T10:45:00-04:00",
+  "updated_at": "2026-08-08T10:55:00-04:00",
   "articles": [
+    {
+      "pmid": "42560982",
+      "doi": "10.1371/journal.pone.0355367",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446709/",
+      "title": "Classification of sporadic Creutzfeldt-Jakob disease based on resting state scalp-recorded electroencephalogram-derived indices",
+      "topic": "sporadic Creutzfeldt-Jakob disease; diagnostics; Compassionate Allowances",
+      "publication_date": "2026-08-06"
+    },
+    {
+      "pmid": "42565101",
+      "doi": "10.1097/PR9.0000000000001473",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13446972/",
+      "title": "Randomized trial of intraoperative nitrous oxide for postoperative pain reduction in cervical spinal cord injury",
+      "topic": "spinal cord injury; neuropathic pain; treatment evidence",
+      "publication_date": "2026-08-05"
+    },
+    {
+      "pmid": "42555876",
+      "doi": "10.1212/WNL.0000000000218347",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13445492/",
+      "title": "Eligibility for Anti-Amyloid Therapies in Patients With Biomarker-Confirmed Atypical Alzheimer Disease Phenotypes",
+      "topic": "Alzheimer disease; treatment access; disability",
+      "publication_date": "2026-08-05"
+    },
     {
       "pmid": null,
       "doi": "10.1001/jamanetworkopen.2026.26522",
