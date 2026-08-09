@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-08T10:55:00-04:00",
+  "updated_at": "2026-08-09T10:56:00-04:00",
   "articles": [
+    {
+      "pmid": "42568003",
+      "doi": "10.1007/s10456-026-10075-3",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13451242/",
+      "title": "Long-term angiogenic and thromboinflammatory signatures in post-COVID-19 syndrome",
+      "topic": "Long COVID; vascular biomarkers; post-viral illness",
+      "publication_date": "2026-08-07"
+    },
+    {
+      "pmid": "42566099",
+      "doi": "10.1007/s10143-026-04437-0",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13451245/",
+      "title": "Locoregional and systemic adoptive cellular therapies for pediatric brain tumors: a systematic review of CAR-T, TCR-engineered T cells, and NK cell strategies",
+      "topic": "pediatric brain tumors; cancer; cellular therapy; Compassionate Allowances",
+      "publication_date": "2026-08-07"
+    },
+    {
+      "pmid": "42566133",
+      "doi": "10.1007/s00415-026-14042-2",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13451453/",
+      "title": "Frontotemporal dementia with right temporal predominance: a clinical comparison with left-predominant FTD",
+      "topic": "frontotemporal dementia; diagnosis; disability",
+      "publication_date": "2026-08-07"
+    },
     {
       "pmid": "42560982",
       "doi": "10.1371/journal.pone.0355367",
