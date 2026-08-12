@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-11T10:30:00-04:00",
+  "updated_at": "2026-08-12T10:30:00-04:00",
   "articles": [
+    {
+      "pmid": "42572798",
+      "doi": "10.1080/0886022X.2026.2710397",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13459315/",
+      "title": "Calciphylaxis in chronic kidney disease: a systematic review of pathomechanisms and risk factors for calcific uremic arteriolopathy",
+      "topic": "calciphylaxis; chronic kidney disease; dialysis; Compassionate Allowances",
+      "publication_date": "2026-08-10"
+    },
     {
       "pmid": "42573087",
       "doi": "10.7554/eLife.109170",
