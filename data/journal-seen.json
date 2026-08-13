@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-12T10:30:00-04:00",
+  "updated_at": "2026-08-13T10:30:00-04:00",
   "articles": [
+    {
+      "pmid": "42584920",
+      "doi": "10.2340/actadv.v106.adv-2026-0443",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13464361/",
+      "title": "Merkel cell carcinoma progression in immunosuppressed patients",
+      "topic": "Merkel cell carcinoma; immunosuppression; cancer progression; Compassionate Allowances",
+      "publication_date": "2026-08-12"
+    },
     {
       "pmid": "42572798",
       "doi": "10.1080/0886022X.2026.2710397",
