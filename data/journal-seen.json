@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-13T10:30:00-04:00",
+  "updated_at": "2026-08-14T10:30:00-04:00",
   "articles": [
+    {
+      "pmid": "42591780",
+      "doi": "10.1210/jendso/bvag173",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13462795/",
+      "title": "Glucose metabolism across COVID-19 and long COVID: a longitudinal study",
+      "topic": "Long COVID; glucose metabolism; diabetes; cardiometabolic health",
+      "publication_date": "2026-08-12"
+    },
     {
       "pmid": "42584920",
       "doi": "10.2340/actadv.v106.adv-2026-0443",
