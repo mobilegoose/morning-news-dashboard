@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-14T10:30:00-04:00",
+  "updated_at": "2026-08-15T10:30:00-04:00",
   "articles": [
+    {
+      "pmid": "42596004",
+      "doi": "10.1186/s42466-026-00519-y",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13474671/",
+      "title": "Guideline of the German Society of Neurology (DGN): \"diagnosis and therapy of HIV-1-associated neurological disorders\"",
+      "topic": "HIV-associated neurological disorders; neurocognitive disorder; opportunistic infections; disability",
+      "publication_date": "2026-08-13"
+    },
+    {
+      "pmid": "42595701",
+      "doi": "10.1080/17482631.2026.2717470",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13474523/",
+      "title": "\"It's taken away the most fundamental things about being human\": the lived experience and impact of post-SSRI sexual dysfunction",
+      "topic": "post-SSRI sexual dysfunction; mental health; function; disability",
+      "publication_date": "2026-08-13"
+    },
+    {
+      "pmid": "42602031",
+      "doi": "10.1007/s10616-026-01048-x",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13473059/",
+      "title": "The miR-99b-3p/BMP8A axis in poor healing of osteoporotic femoral neck fractures",
+      "topic": "osteoporotic femoral neck fracture; bone healing; biomarkers; rehabilitation",
+      "publication_date": "2026-08-13"
+    },
     {
       "pmid": "42591780",
       "doi": "10.1210/jendso/bvag173",
