@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-08-15T10:30:00-04:00",
+  "updated_at": "2026-08-16T10:30:00-04:00",
   "articles": [
+    {
+      "pmid": "42596591",
+      "doi": "10.1002/epi4.70328",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13473756/",
+      "title": "From first seizure to specific antiseizure medication in Dravet syndrome: Quantifying delays in the DS'coverED study",
+      "topic": "Dravet syndrome; diagnosis; antiseizure medication; Compassionate Allowances",
+      "publication_date": "2026-08-13"
+    },
+    {
+      "pmid": "42603880",
+      "doi": "10.1002/cti2.70115",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13476161/",
+      "title": "Peripheral immune dynamics during treatment predict prognosis in HCC receiving TACE plus ICIs and anti-VEGF/TKIs",
+      "topic": "hepatocellular carcinoma; cancer; immunotherapy; prognostic biomarkers",
+      "publication_date": "2026-08-14"
+    },
+    {
+      "pmid": "42602553",
+      "doi": "10.1002/dad2.70450",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13474157/",
+      "title": "Automated differentiation of non-fluent and logopenic primary progressive aphasia in Italian speakers using acoustic and linguistic speech measures",
+      "topic": "primary progressive aphasia; dementia; diagnostic speech analysis; function",
+      "publication_date": "2026-08-14"
+    },
     {
       "pmid": "42596004",
       "doi": "10.1186/s42466-026-00519-y",
