@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-08-16T10:30:00-04:00",
+  "updated_at": "2026-08-17T10:30:00-04:00",
   "articles": [
+    {
+      "pmid": "42601815",
+      "doi": "10.1111/bpa.70134",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13476587/",
+      "title": "α-Synuclein strain homogeneity in multiple system atrophy subtypes",
+      "topic": "multiple system atrophy; alpha-synuclein; neurodegeneration; Compassionate Allowances",
+      "publication_date": "2026-08-14"
+    },
     {
       "pmid": "42596591",
       "doi": "10.1002/epi4.70328",
