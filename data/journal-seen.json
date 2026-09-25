@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-08-17T10:30:00-04:00",
+  "updated_at": "2026-09-25T10:31:00-04:00",
   "articles": [
+    {
+      "pmid": "42787038",
+      "doi": "10.3389/fonc.2026.1839945",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13600857/",
+      "title": "Survival disparities in HER2-low versus HER2-positive breast cancer: a systematic review of progression-free survival and overall survival",
+      "topic": "breast cancer; HER2-low; HER2-positive; survival; Compassionate Allowances",
+      "publication_date": "2026-09-10"
+    },
+    {
+      "pmid": "42787039",
+      "doi": "10.3389/fneur.2026.1901436",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13600866/",
+      "title": "Cognitive decline over time in myotonic dystrophy type 1: a systematic review of longitudinal studies",
+      "topic": "myotonic dystrophy type 1; cognitive decline; disability; function",
+      "publication_date": "2026-09-10"
+    },
     {
       "pmid": "42601815",
       "doi": "10.1111/bpa.70134",
