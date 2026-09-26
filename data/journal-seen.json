@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-25T10:31:00-04:00",
+  "updated_at": "2026-09-26T10:32:00-04:00",
   "articles": [
+    {
+      "pmid": "",
+      "doi": "10.1186/s12984-026-02156-7",
+      "canonical_url": "https://link.springer.com/article/10.1186/s12984-026-02156-7",
+      "title": "Surface EMG-based classification and prediction of Fugl-Meyer upper extremity scores in subacute stroke",
+      "topic": "stroke; rehabilitation; function; surface EMG; machine learning",
+      "publication_date": "2026-09-24"
+    },
+    {
+      "pmid": "42785948",
+      "doi": "10.2967/jnumed.126.273112",
+      "canonical_url": "https://jnm.snmjournals.org/content/early/2026/09/23/jnumed.126.273112",
+      "title": "Recombinant Human Thyrotropin Versus Thyroid Hormone Withdrawal for Radioactive Iodine Therapy in Metastatic Differentiated Thyroid Cancer: A Multicenter Retrospective Study",
+      "topic": "metastatic differentiated thyroid cancer; radioactive iodine; Compassionate Allowances",
+      "publication_date": "2026-09-24"
+    },
+    {
+      "pmid": "42787855",
+      "doi": "10.1016/j.esmogo.2026.100405",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13602251/",
+      "title": "Care delivery among patients with early-onset versus average-onset cholangiocarcinoma: a nationwide retrospective analysis",
+      "topic": "cholangiocarcinoma; diagnostic delay; health access; disparities; Compassionate Allowances",
+      "publication_date": "2026-09-17"
+    },
     {
       "pmid": "42787038",
       "doi": "10.3389/fonc.2026.1839945",
@@ -26,14 +50,6 @@
       "publication_date": "2026-08-14"
     },
     {
-      "pmid": "42596591",
-      "doi": "10.1002/epi4.70328",
-      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13473756/",
-      "title": "From first seizure to specific antiseizure medication in Dravet syndrome: Quantifying delays in the DS'coverED study",
-      "topic": "Dravet syndrome; diagnosis; antiseizure medication; Compassionate Allowances",
-      "publication_date": "2026-08-13"
-    },
-    {
       "pmid": "42603880",
       "doi": "10.1002/cti2.70115",
       "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13476161/",
@@ -48,6 +64,14 @@
       "title": "Automated differentiation of non-fluent and logopenic primary progressive aphasia in Italian speakers using acoustic and linguistic speech measures",
       "topic": "primary progressive aphasia; dementia; diagnostic speech analysis; function",
       "publication_date": "2026-08-14"
+    },
+    {
+      "pmid": "42596591",
+      "doi": "10.1002/epi4.70328",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13473756/",
+      "title": "From first seizure to specific antiseizure medication in Dravet syndrome: Quantifying delays in the DS'coverED study",
+      "topic": "Dravet syndrome; diagnosis; antiseizure medication; Compassionate Allowances",
+      "publication_date": "2026-08-13"
     },
     {
       "pmid": "42596004",
