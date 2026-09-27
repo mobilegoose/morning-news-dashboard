@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-09-26T10:32:00-04:00",
+  "updated_at": "2026-09-27T10:30:00-04:00",
   "articles": [
+    {
+      "pmid": "42788121",
+      "doi": "10.1212/NXG.0000000000200440",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13609829/",
+      "title": "LRP12 CGG Repeat Expansions in Patients With Adult-Onset Non-5q Spinal Muscular Atrophy",
+      "topic": "adult-onset non-5q spinal muscular atrophy; LRP12 repeat expansion; motor neuron disease; Compassionate Allowances",
+      "publication_date": "2026-09-23"
+    },
+    {
+      "pmid": "42798815",
+      "doi": "10.1093/braincomms/fcag353",
+      "canonical_url": "https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcag353/8792780",
+      "title": "Artificial intelligence-based speech error detection to differentiate primary progressive aphasia variants",
+      "topic": "primary progressive aphasia; dementia; speech biomarkers; artificial intelligence; function",
+      "publication_date": "2026-09-12"
+    },
+    {
+      "pmid": "42787530",
+      "doi": "10.1016/j.iotech.2026.101613",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13602145/",
+      "title": "Quality of life and care experience in durable responders to immune checkpoint inhibitors for advanced or metastatic NSCLC or melanoma",
+      "topic": "cancer survivorship; quality of life; fatigue; function; work capacity",
+      "publication_date": "2026-09-17"
+    },
     {
       "pmid": "",
       "doi": "10.1186/s12984-026-02156-7",
@@ -323,3 +347,4 @@
     }
   ]
 }
+
