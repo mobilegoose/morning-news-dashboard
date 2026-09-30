@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-09-29T10:45:00-04:00",
+  "updated_at": "2026-09-30T10:34:00-04:00",
   "articles": [
+    {
+      "pmid": "42809113",
+      "doi": "10.1007/s00423-026-04285-y",
+      "canonical_url": "https://link.springer.com/article/10.1007/s00423-026-04285-y",
+      "title": "Geriatric co-managed prehabilitation before esophagectomy in patients aged ≥ 65 years with esophageal cancer: a prospective feasibility study with matched historical controls",
+      "topic": "esophageal cancer; geriatric prehabilitation; rehabilitation; function; perioperative care",
+      "publication_date": "2026-09-29"
+    },
     {
       "pmid": "42803747",
       "doi": "10.1002/cns.71171",
