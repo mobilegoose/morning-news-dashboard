@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-01T10:55:00-04:00",
+  "updated_at": "2026-10-02T11:18:00-04:00",
   "articles": [
+    {
+      "pmid": "42809362",
+      "doi": "10.1172/jci.insight.210824",
+      "canonical_url": "https://insight.jci.org/articles/view/210824",
+      "title": "Whole-genome methylation sequencing uncovers PASC signature elicited by T4 lymphocytes, shared with pulmonary fibrosis risk",
+      "topic": "Long COVID; PASC; T4 lymphocytes; epigenetics; biomarker",
+      "publication_date": "2026-09-29"
+    },
+    {
+      "pmid": "42810796",
+      "doi": "10.1136/bmjopen-2026-119165",
+      "canonical_url": "https://bmjopen.bmj.com/content/16/9/e119165",
+      "title": "Multimorbidity, functional impairment and health-related quality of life in postural orthostatic tachycardia syndrome: findings from an Australian observational cohort study",
+      "topic": "POTS; dysautonomia; disability; function; quality of life",
+      "publication_date": "2026-09-29"
+    },
+    {
+      "pmid": "42814922",
+      "doi": "10.1212/CPJ.0000000000200667",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13629489/",
+      "title": "Pediatric Spinal Cord Stroke: Clinical Presentation, MRI Features, and Suspected Mechanisms",
+      "topic": "pediatric spinal cord stroke; disability; neurology; diagnosis",
+      "publication_date": "2026-09-30"
+    },
+    {
+      "pmid": "42811501",
+      "doi": "10.1080/10872981.2026.2740874",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13629821/",
+      "title": "Disability, mental health symptom recognition, and treatment-seeking in resident physicians with depressive symptoms",
+      "topic": "disability; mental health; depression; treatment access",
+      "publication_date": "2026-09-29"
+    },
     {
       "pmid": null,
       "doi": "10.1186/s12984-026-02166-5",
