@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-02T11:18:00-04:00",
+  "updated_at": "2026-10-03T10:40:00-04:00",
   "articles": [
+    {
+      "pmid": "42821845",
+      "doi": "10.1212/WNL.0000000000218591",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13632642/",
+      "title": "Clinical Factors Associated With Discordant Plasma P-Tau217 and Established Alzheimer Disease Biomarkers",
+      "topic": "Alzheimer disease; dementia; p-tau217; biomarker; diagnosis",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "pmid": "42821840",
+      "doi": "10.1212/CPJ.0000000000200669",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13631877/",
+      "title": "Digital Health Technologies for Risk Factor Management and Secondary Prevention After Stroke: A Systematic Review and Meta-Analysis",
+      "topic": "stroke; secondary prevention; digital health; rehabilitation; blood pressure",
+      "publication_date": "2026-10-01"
+    },
+    {
+      "pmid": "42823715",
+      "doi": "10.1186/s40364-026-01008-9",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13632146/",
+      "title": "Advances in molecular pathobiology of PCNSL - towards clinical implementation of novel diagnostics and therapeutics",
+      "topic": "primary central nervous system lymphoma; cancer; diagnostics; treatment",
+      "publication_date": "2026-10-01"
+    },
     {
       "pmid": "42809362",
       "doi": "10.1172/jci.insight.210824",
