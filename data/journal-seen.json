@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-03T10:40:00-04:00",
+  "updated_at": "2026-10-04T11:05:00-04:00",
   "articles": [
+    {
+      "pmid": "42829436",
+      "doi": "10.1186/s40164-026-00835-8",
+      "canonical_url": "https://link.springer.com/article/10.1186/s40164-026-00835-8",
+      "title": "Targeting adaptive EGFR feedback enhances the therapeutic efficacy of RMC-6236 in cholangiocarcinoma",
+      "topic": "cholangiocarcinoma; KRAS; RAS inhibitor; EGFR feedback; preclinical treatment research",
+      "publication_date": "2026-10-03"
+    },
     {
       "pmid": "42821845",
       "doi": "10.1212/WNL.0000000000218591",
