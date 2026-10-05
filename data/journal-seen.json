@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T11:05:00-04:00",
+  "updated_at": "2026-10-05T11:18:00-04:00",
   "articles": [
+    {
+      "pmid": "42829533",
+      "doi": "10.1002/jsp2.70223",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13633430/",
+      "title": "Biomechanical, Structural, and Composition Characterization of the Vertebra-Disc Interface",
+      "topic": "spine; vertebra-disc interface; biomechanics; function; human cadaver study",
+      "publication_date": "2026-10-02"
+    },
+    {
+      "pmid": "42823747",
+      "doi": "10.1186/s13287-026-05098-y",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13632390/",
+      "title": "Functional analysis of adrenocorticotropic-hormone-producing pituitary cells derived from human pluripotent stem cells in murine and primate models of hypopituitarism",
+      "topic": "hypopituitarism; adrenal insufficiency; stem cells; organoids; preclinical therapy research",
+      "publication_date": "2026-10-02"
+    },
     {
       "pmid": "42829436",
       "doi": "10.1186/s40164-026-00835-8",
