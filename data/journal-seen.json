@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-05T11:18:00-04:00",
+  "updated_at": "2026-10-06T10:40:00-04:00",
   "articles": [
+    {
+      "pmid": "42832198",
+      "doi": "10.1001/jamanetworkopen.2026.37533",
+      "canonical_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2854830",
+      "title": "Anticoagulation Outcomes in Nursing Home Residents With Atrial Fibrillation and ADL Disability",
+      "topic": "atrial fibrillation; anticoagulation; nursing home; ADL disability; Medicare; bleeding and stroke",
+      "publication_date": "2026-10-05"
+    },
+    {
+      "pmid": "42829912",
+      "doi": "10.1002/advs.78077",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13634481/",
+      "title": "Metabolic Signatures for Liver Cancer Diagnosis and Mechanistic Insights: A Large-Scale, Multicenter Study",
+      "topic": "liver cancer; hepatocellular carcinoma; biomarker; metabolomics; diagnosis",
+      "publication_date": "2026-10-04"
+    },
     {
       "pmid": "42829533",
       "doi": "10.1002/jsp2.70223",
