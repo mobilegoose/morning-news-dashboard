@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-10-06T10:40:00-04:00",
+  "updated_at": "2026-10-08T10:55:00-04:00",
   "articles": [
+    {
+      "pmid": null,
+      "doi": "10.1093/haschl/qxag268",
+      "canonical_url": "https://academic.oup.com/healthaffairsscholar/advance-article/doi/10.1093/haschl/qxag268/8876110",
+      "title": "Assessing Eligibility of Medicare Beneficiaries With Chronic Conditions for the ACCESS Model",
+      "topic": "Medicare; chronic conditions; ACCESS Model; telehealth; health policy",
+      "publication_date": "2026-10-07"
+    },
+    {
+      "pmid": null,
+      "doi": "10.1093/haschl/qxag269",
+      "canonical_url": "https://academic.oup.com/healthaffairsscholar/advance-article/doi/10.1093/haschl/qxag269/8876111",
+      "title": "Prevalence of ties to industry-funded organizations among patient and consumer representatives on FDA advisory committees",
+      "topic": "FDA; advisory committees; patient representatives; conflicts of interest; health policy",
+      "publication_date": "2026-10-07"
+    },
+    {
+      "pmid": "42840349",
+      "doi": "10.1093/nargab/lqag117",
+      "canonical_url": "https://academic.oup.com/nargab/article/8/4/lqag117/8868268",
+      "title": "Nanopore sequencing combined with adaptive sampling and NanoExpansion enables accurate characterization of repeat expansion disorders",
+      "topic": "repeat expansion disorders; rare disease; nanopore sequencing; diagnosis; CANVAS; spinocerebellar ataxia",
+      "publication_date": "2026-10-06"
+    },
+    {
+      "pmid": "42840584",
+      "doi": "10.1093/nargab/lqag116",
+      "canonical_url": "https://academic.oup.com/nargab/article/8/4/lqag116/8868263",
+      "title": "Integrating network medicine and foundation models reveals cell-type-specific regulatory alterations in Alzheimer’s disease",
+      "topic": "Alzheimer's disease; dementia; single-cell transcriptomics; foundation models; regulatory networks",
+      "publication_date": "2026-10-06"
+    },
     {
       "pmid": "42832198",
       "doi": "10.1001/jamanetworkopen.2026.37533",
