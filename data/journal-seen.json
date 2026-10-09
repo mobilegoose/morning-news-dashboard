@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-08T10:55:00-04:00",
+  "updated_at": "2026-10-09T11:20:00-04:00",
   "articles": [
+    {
+      "pmid": "42850025",
+      "doi": "10.3399/BJGPO.2026.0163",
+      "canonical_url": "https://bjgpopen.org/content/early/2026/10/08/BJGPO.2026.0163",
+      "title": "Trends in long COVID and post-viral fatigue in children in primary care in England",
+      "topic": "Long COVID; post-viral fatigue; children; primary care; epidemiology",
+      "publication_date": "2026-10-08"
+    },
     {
       "pmid": null,
       "doi": "10.1093/haschl/qxag268",
