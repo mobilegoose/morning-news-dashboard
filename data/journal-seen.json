@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T11:20:00-04:00",
+  "updated_at": "2026-10-10T10:42:00-04:00",
   "articles": [
+    {
+      "pmid": "42855739",
+      "doi": "10.1186/s40364-026-01012-z",
+      "canonical_url": "https://link.springer.com/article/10.1186/s40364-026-01012-z",
+      "title": "First-in-human phase Ia study of the covalent TEAD palmitoylation inhibitor BPI-460372 in patients with advanced solid tumors: pharmacokinetics, exposure-limited dosing, and early antitumor activity",
+      "topic": "cancer; solid tumors; phase I trial; TEAD inhibitor; treatment research",
+      "publication_date": "2026-10-09"
+    },
+    {
+      "pmid": "42853148",
+      "doi": "10.70962/jhi.20260069",
+      "canonical_url": "https://rupress.org/jhi/article/2/6/e20260069/283055/IRF4-p-T95R-combined-immunodeficiency-Clinical",
+      "title": "IRF4 p.T95R combined immunodeficiency: Clinical features and transplant outcomes",
+      "topic": "rare disease; combined immunodeficiency; genetics; stem-cell transplant",
+      "publication_date": "2026-10-09"
+    },
     {
       "pmid": "42850025",
       "doi": "10.3399/BJGPO.2026.0163",
