@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T10:42:00-04:00",
+  "updated_at": "2026-10-11T10:40:00-04:00",
   "articles": [
+    {
+      "pmid": "42854356",
+      "doi": "10.1016/j.ebiom.2026.106505",
+      "canonical_url": "https://www.sciencedirect.com/science/article/pii/S2352396426003890",
+      "title": "EARLY-ALS: a multicentre study on prodromal amyotrophic lateral sclerosis",
+      "topic": "amyotrophic lateral sclerosis; motor neuron disease; prodromal symptoms; early recognition; disability",
+      "publication_date": "2026-10-09"
+    },
+    {
+      "pmid": "42852583",
+      "doi": "10.1002/mdc3.70847",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13650757/",
+      "title": "Longitudinal Cognitive Function in Progressive Supranuclear Palsy-A Review of the Evidence for Progression",
+      "topic": "progressive supranuclear palsy; cognition; neurodegeneration; dementia; disability; assessment",
+      "publication_date": "2026-10-09"
+    },
     {
       "pmid": "42855739",
       "doi": "10.1186/s40364-026-01012-z",
