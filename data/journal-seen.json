@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-11T10:40:00-04:00",
+  "updated_at": "2026-10-12T10:50:00-04:00",
   "articles": [
+    {
+      "pmid": "42855719",
+      "doi": "10.1186/s40164-026-00836-7",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13653407/",
+      "title": "Beyond MYD88-only testing: MYD88/CD79B profiling improves molecular detection and MCD genotyping in VRL and CNS lymphomas",
+      "topic": "primary vitreoretinal lymphoma; primary central nervous system lymphoma; cancer diagnostics; MYD88; CD79B",
+      "publication_date": "2026-10-09"
+    },
     {
       "pmid": "42854356",
       "doi": "10.1016/j.ebiom.2026.106505",
