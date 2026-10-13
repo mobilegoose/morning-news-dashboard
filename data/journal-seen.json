@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-12T10:50:00-04:00",
+  "updated_at": "2026-10-13T10:55:00-04:00",
   "articles": [
+    {
+      "pmid": null,
+      "doi": "10.1038/s41467-026-78262-w",
+      "canonical_url": "https://www.nature.com/articles/s41467-026-78262-w",
+      "title": "Disability related disparities in diagnosis and survival of digestive system cancers in Northern Italy",
+      "topic": "disability; digestive system cancer; diagnostic access; emergency presentation; survival disparities",
+      "publication_date": "2026-10-10"
+    },
+    {
+      "pmid": "42862558",
+      "doi": "10.1001/jamanetworkopen.2026.38356",
+      "canonical_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855220",
+      "title": "Home-Based Programs and Cardiac Rehabilitation Participation Among Veterans With Ischemic Heart Disease",
+      "topic": "cardiac rehabilitation; home-based care; ischemic heart disease; veterans; access; function",
+      "publication_date": "2026-10-12"
+    },
+    {
+      "pmid": "42858231",
+      "doi": "10.1080/15384047.2026.2743407",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13656812/",
+      "title": "RecurIndex-derived molecular features associated with total pathological complete response in triple-negative breast cancer: An exploratory prospective cohort study with single-cell transcriptomic contextualization",
+      "topic": "triple-negative breast cancer; neoadjuvant therapy; molecular biomarkers; pathological response; exploratory cohort",
+      "publication_date": "2026-10-10"
+    },
     {
       "pmid": "42855719",
       "doi": "10.1186/s40164-026-00836-7",
