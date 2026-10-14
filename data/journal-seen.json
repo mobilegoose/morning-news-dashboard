@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-13T10:55:00-04:00",
+  "updated_at": "2026-10-14T11:02:00-04:00",
   "articles": [
+    {
+      "pmid": "42867482",
+      "doi": "10.1002/epi4.70369",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13660742/",
+      "title": "Exploring medical food supplementation as an adjunct strategy for microbiota restoration and seizure reduction in CDKL5 deficiency disorder",
+      "topic": "CDKL5 deficiency disorder; drug-resistant epilepsy; microbiome; medical food; rare disease; Compassionate Allowances",
+      "publication_date": "2026-10-13"
+    },
+    {
+      "pmid": "42862709",
+      "doi": "10.1080/19585969.2026.2745684",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13660552/",
+      "title": "Artificial Intelligence in suicide prevention: promise, peril, and clinical implications for clinical practice",
+      "topic": "suicide prevention; mental health; psychiatric disability; artificial intelligence; clinical safety",
+      "publication_date": "2026-10-12"
+    },
+    {
+      "pmid": "42865756",
+      "doi": "10.1002/trc2.70326",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13655215/",
+      "title": "Frontotemporal lobar degeneration therapeutic development pipeline: 2026",
+      "topic": "frontotemporal lobar degeneration; dementia; clinical trials; therapeutic pipeline; biomarkers",
+      "publication_date": "2026-10-11"
+    },
     {
       "pmid": null,
       "doi": "10.1038/s41467-026-78262-w",
