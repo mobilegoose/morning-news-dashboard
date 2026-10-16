@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-14T11:02:00-04:00",
+  "updated_at": "2026-10-16T10:45:00-04:00",
   "articles": [
+    {
+      "pmid": "42879454",
+      "doi": "10.1371/journal.pone.0359844",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13671525/",
+      "title": "Post-acute sequelae of COVID-19 (PASC) are associated with distinct clinical phenotypes two years after SARS-CoV-2 infection: A data-driven approach",
+      "topic": "Long COVID; PASC; ME/CFS; post-exertional malaise; function; disability",
+      "publication_date": "2026-10-15"
+    },
     {
       "pmid": "42867482",
       "doi": "10.1002/epi4.70369",
