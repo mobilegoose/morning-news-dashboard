@@ -1,6 +1,30 @@
 {
-  "updated_at": "2026-10-16T10:45:00-04:00",
+  "updated_at": "2026-10-17T10:45:00-04:00",
   "articles": [
+    {
+      "pmid": "42886747",
+      "doi": "10.1371/journal.pone.0359082",
+      "canonical_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0359082",
+      "title": "Identification of SGK1 as a candidate regulator associated with myeloid cell senescence in ME/CFS: An integrative transcriptomic and experimental study",
+      "topic": "ME/CFS; post-viral illness; immune senescence; transcriptomics; biomarker research",
+      "publication_date": "2026-10-16"
+    },
+    {
+      "pmid": "42881455",
+      "doi": "10.1186/s12885-026-17170-0",
+      "canonical_url": "https://link.springer.com/article/10.1186/s12885-026-17170-0",
+      "title": "Late enhancement and washout maps for distinguishing tumor progression from radiation necrosis in malignant brain tumors: an exploratory study",
+      "topic": "brain tumors; glioblastoma; cancer diagnostics; radiation necrosis; MRI",
+      "publication_date": "2026-10-15"
+    },
+    {
+      "pmid": "42872881",
+      "doi": "10.1080/21645515.2026.2745402",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13671429/",
+      "title": "RSV vaccine uptake among Medicare Advantage enrollees: August 2023 to December 2024",
+      "topic": "Medicare Advantage; RSV; vaccination; health access; older adults",
+      "publication_date": "2026-10-14"
+    },
     {
       "pmid": "42879454",
       "doi": "10.1371/journal.pone.0359844",
