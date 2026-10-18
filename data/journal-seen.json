@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-17T10:45:00-04:00",
+  "updated_at": "2026-10-18T11:20:00-04:00",
   "articles": [
+    {
+      "pmid": "42891860",
+      "doi": "10.1007/s10072-026-09480-9",
+      "canonical_url": "https://link.springer.com/article/10.1007/s10072-026-09480-9",
+      "title": "Peripheral and cerebrospinal fluid inflammatory markers in sporadic amyotrophic lateral sclerosis an exploratory cross-sectional association study",
+      "topic": "amyotrophic lateral sclerosis; ALS; neuroinflammation; TNFR-1; biomarkers",
+      "publication_date": "2026-10-17"
+    },
     {
       "pmid": "42886747",
       "doi": "10.1371/journal.pone.0359082",
