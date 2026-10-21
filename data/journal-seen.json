@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T11:20:00-04:00",
+  "updated_at": "2026-10-21T10:50:00-04:00",
   "articles": [
+    {
+      "pmid": "42900561",
+      "doi": "10.1002/acm2.70867",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13682623/",
+      "title": "Dynamic Proton arc therapy for paediatric parameningeal rhabdomyosarcoma",
+      "topic": "cancer; pediatric rhabdomyosarcoma; proton therapy; treatment planning",
+      "publication_date": "2026-10-20"
+    },
+    {
+      "pmid": "42897443",
+      "doi": "10.1002/mds.70585",
+      "canonical_url": "https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.70585",
+      "title": "Automated Magnetic Resonance Volumetry to Measure Multiple System Atrophy Disease Progression in Clinical Trials",
+      "topic": "multiple system atrophy; neurodegeneration; imaging biomarker; Compassionate Allowances",
+      "publication_date": "2026-10-19"
+    },
     {
       "pmid": "42891860",
       "doi": "10.1007/s10072-026-09480-9",
