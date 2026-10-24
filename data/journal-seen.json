@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-21T10:50:00-04:00",
+  "updated_at": "2026-10-24T10:47:00-04:00",
   "articles": [
+    {
+      "pmid": "42910074",
+      "doi": "10.1002/mco2.71075",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13686415/",
+      "title": "Lymph Node Regression Improves Prognostic Stratification in Esophageal Squamous Cell Carcinoma Receiving Neoadjuvant Chemoimmunotherapy: A Multicenter Retrospective Cohort Study",
+      "topic": "esophageal squamous cell carcinoma; cancer; neoadjuvant chemoimmunotherapy; prognostic pathology; Compassionate Allowances",
+      "publication_date": "2026-10-21"
+    },
     {
       "pmid": "42900561",
       "doi": "10.1002/acm2.70867",
