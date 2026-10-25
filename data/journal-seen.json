@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-24T10:47:00-04:00",
+  "updated_at": "2026-10-25T10:38:00-04:00",
   "articles": [
+    {
+      "pmid": "42914560",
+      "doi": "10.1136/jitc-2026-015492",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13691859/",
+      "title": "Development and preclinical evaluation of tetraspecific antibodies in combination with ex vivo expanded NK cells infusion for improved control of esophageal cancer",
+      "topic": "esophageal squamous cell carcinoma; cancer; tetraspecific antibody; natural killer cells; preclinical immunotherapy; Compassionate Allowances",
+      "publication_date": "2026-10-22"
+    },
     {
       "pmid": "42910074",
       "doi": "10.1002/mco2.71075",
