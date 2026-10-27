@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-25T10:38:00-04:00",
+  "updated_at": "2026-10-27T10:40:00-04:00",
   "articles": [
+    {
+      "pmid": null,
+      "doi": "10.3390/md24110379",
+      "canonical_url": "https://www.mdpi.com/1660-3397/24/11/379",
+      "title": "Antiamoebic Activity of Rutamycin B and Inhibition of Naegleria fowleri F1FO ATP Synthase Activity",
+      "topic": "Naegleria fowleri; primary amoebic meningoencephalitis; infectious disease; early-stage drug discovery",
+      "publication_date": "2026-10-26"
+    },
     {
       "pmid": "42914560",
       "doi": "10.1136/jitc-2026-015492",
