@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-27T10:40:00-04:00",
+  "updated_at": "2026-10-28T10:43:00-04:00",
   "articles": [
+    {
+      "pmid": null,
+      "doi": "10.1001/jamanetworkopen.2026.40804",
+      "canonical_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855861",
+      "title": "Annual Wellness Visits and New Dementia Medication Prescriptions Among US Medicare Beneficiaries",
+      "topic": "Alzheimer disease and related dementias; Medicare; annual wellness visits; medication access",
+      "publication_date": "2026-10-27"
+    },
     {
       "pmid": null,
       "doi": "10.3390/md24110379",
