@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-28T10:43:00-04:00",
+  "updated_at": "2026-10-29T10:36:00-04:00",
   "articles": [
+    {
+      "pmid": "42944919",
+      "doi": "10.1007/s00280-026-04976-9",
+      "canonical_url": "https://link.springer.com/article/10.1007/s00280-026-04976-9",
+      "title": "The role of tyrosine kinase inhibitors as a post-hematopoietic stem cell transplant continuation therapy for pediatric acute leukemia: a systematic review",
+      "topic": "pediatric acute leukemia; hematopoietic stem cell transplant; tyrosine kinase inhibitors; post-transplant continuation therapy; systematic review",
+      "publication_date": "2026-10-27"
+    },
     {
       "pmid": null,
       "doi": "10.1001/jamanetworkopen.2026.40804",
