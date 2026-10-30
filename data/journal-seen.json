@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-29T10:36:00-04:00",
+  "updated_at": "2026-10-30T10:42:00-04:00",
   "articles": [
+    {
+      "pmid": "42949655",
+      "doi": "10.1002/advs.78377",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13715668/",
+      "title": "Noninvasive Detection and Subtyping of Esophageal Cancer by Circulating Cell-Free mtDNA Fragmentomics: A Multi-Center Validation Study",
+      "topic": "esophageal cancer; Compassionate Allowances; liquid biopsy; cell-free mitochondrial DNA; diagnostic model",
+      "publication_date": "2026-10-28"
+    },
     {
       "pmid": "42944919",
       "doi": "10.1007/s00280-026-04976-9",
