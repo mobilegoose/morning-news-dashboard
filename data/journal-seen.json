@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-10-30T10:42:00-04:00",
+  "updated_at": "2026-10-31T10:32:00-04:00",
   "articles": [
+    {
+      "pmid": "42955934",
+      "doi": "10.1371/journal.pone.0361593",
+      "canonical_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361593",
+      "title": "Enhanced enfortumab vedotin sensitivity in a cisplatin-resistant bladder cancer model",
+      "topic": "bladder cancer; cisplatin resistance; enfortumab vedotin; ABCB1; preclinical laboratory and mouse study",
+      "publication_date": "2026-10-29"
+    },
     {
       "pmid": "42949655",
       "doi": "10.1002/advs.78377",
