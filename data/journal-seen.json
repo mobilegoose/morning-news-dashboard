@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T10:32:00-04:00",
+  "updated_at": "2026-11-01T10:40:00-05:00",
   "articles": [
+    {
+      "pmid": null,
+      "doi": "10.1001/jamanetworkopen.2026.41377",
+      "canonical_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856026",
+      "title": "National Institutes of Health Funding for Research About Transgender and Nonbinary Youths",
+      "topic": "transgender and nonbinary youth; NIH funding; disability and health policy; cross-sectional research funding analysis",
+      "publication_date": "2026-10-30"
+    },
+    {
+      "pmid": null,
+      "doi": "10.1001/jamanetworkopen.2026.41231",
+      "canonical_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856030",
+      "title": "Survival After Risk-Reducing Mastectomy in Patients With Pathogenic Variants in BRCA1 and BRCA2: A Network Meta-Analysis",
+      "topic": "BRCA1 and BRCA2; breast cancer; risk-reducing mastectomy; survival; network meta-analysis",
+      "publication_date": "2026-10-30"
+    },
     {
       "pmid": "42955934",
       "doi": "10.1371/journal.pone.0361593",
