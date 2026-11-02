@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T10:40:00-05:00",
+  "updated_at": "2026-11-02T10:55:00-05:00",
   "articles": [
+    {
+      "pmid": "42968952",
+      "doi": "10.21873/cdp.10597",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13724020/",
+      "title": "Prognostic Impact of Nectin4 and IRF6 Expression in Patients Undergoing Radical Cystectomy for Muscle-Invasive Bladder Cancer",
+      "topic": "muscle-invasive bladder cancer; Compassionate Allowances; Nectin-4; IRF6; retrospective prognostic biomarker study",
+      "publication_date": "2026-11-01"
+    },
+    {
+      "pmid": "42968802",
+      "doi": "10.21873/cdp.10598",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13724018/",
+      "title": "Definitive Chemoradiotherapy for Cervical Esophageal Squamous Cell Carcinoma: A Single-institution Retrospective Study",
+      "topic": "cervical esophageal squamous cell carcinoma; Compassionate Allowances; chemoradiotherapy; survival; retrospective cohort",
+      "publication_date": "2026-11-01"
+    },
     {
       "pmid": null,
       "doi": "10.1001/jamanetworkopen.2026.41377",
