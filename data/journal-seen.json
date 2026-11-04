@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T10:55:00-05:00",
+  "updated_at": "2026-11-04T10:30:00-05:00",
   "articles": [
+    {
+      "pmid": "42976211",
+      "doi": "10.1371/journal.pone.0361802",
+      "canonical_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0361802",
+      "title": "PIVKA-II and hematological parameters in hepatocellular carcinoma and non-malignant chronic liver disease: A case-control biomarker comparison in a hepatitis-endemic population",
+      "topic": "hepatocellular carcinoma; Compassionate Allowances; PIVKA-II; diagnostic biomarker; case-control study",
+      "publication_date": "2026-11-03"
+    },
+    {
+      "pmid": "42974869",
+      "doi": "10.1093/dote/doag126",
+      "canonical_url": "https://academic.oup.com/dote/article/39/6/doag126/9010807",
+      "title": "Leptomeningeal carcinomatosis arising from esophageal cancer: a systematic review of the literature",
+      "topic": "esophageal cancer; Compassionate Allowances; leptomeningeal carcinomatosis; systematic review",
+      "publication_date": "2026-11-03"
+    },
     {
       "pmid": "42968952",
       "doi": "10.21873/cdp.10597",
