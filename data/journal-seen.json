@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-04T10:30:00-05:00",
+  "updated_at": "2026-11-05T10:30:00-05:00",
   "articles": [
+    {
+      "pmid": "42979574",
+      "doi": "10.1515/biol-2025-1396",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13730398/",
+      "title": "Preliminary development and internal evaluation of a plasma SOX1 methylation-based model bladder cancer detection",
+      "topic": "bladder cancer; Compassionate Allowances; SOX1 methylation; plasma biomarker; diagnostic model; retrospective case-control study",
+      "publication_date": "2026-11-04"
+    },
     {
       "pmid": "42976211",
       "doi": "10.1371/journal.pone.0361802",
