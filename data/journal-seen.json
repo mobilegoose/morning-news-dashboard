@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-05T10:30:00-05:00",
+  "updated_at": "2026-11-06T10:30:00-05:00",
   "articles": [
+    {
+      "pmid": "42985276",
+      "doi": "10.1002/deo2.70467",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13733652/",
+      "title": "Enhanced Esophageal Cancer Detection Using Spectrum-Aided Vision Enhancer: A Comparative Study of White Light Imaging, Narrow-Band Imaging, and Algorithmic Narrow-Band Imaging-Like Imaging",
+      "topic": "esophageal squamous cell carcinoma; Compassionate Allowances; SAVE imaging; endoscopic detection; retrospective feasibility study",
+      "publication_date": "2026-11-04"
+    },
     {
       "pmid": "42979574",
       "doi": "10.1515/biol-2025-1396",
