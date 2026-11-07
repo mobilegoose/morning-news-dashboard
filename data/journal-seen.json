@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-06T10:30:00-05:00",
+  "updated_at": "2026-11-07T10:45:00-05:00",
   "articles": [
+    {
+      "pmid": "42981266",
+      "doi": "10.1371/journal.pone.0360748",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13734440/",
+      "title": "Experiences of individually tailored physical exercise in COVID-19-induced postural orthostatic tachycardia syndrome: A qualitative content analysis",
+      "topic": "Long COVID; post-COVID condition; POTS; rehabilitation; function",
+      "publication_date": "2026-11-04"
+    },
     {
       "pmid": "42985276",
       "doi": "10.1002/deo2.70467",
