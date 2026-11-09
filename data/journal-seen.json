@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-07T10:45:00-05:00",
+  "updated_at": "2026-11-09T10:50:00-05:00",
   "articles": [
+    {
+      "pmid": "42992600",
+      "doi": "10.1080/2162402X.2026.2755668",
+      "canonical_url": "https://www.tandfonline.com/doi/full/10.1080/2162402X.2026.2755668",
+      "title": "Alteration of macrophage infiltrates in the tumor immune microenvironment following Janus kinase 1 (JAK) inhibition: analysis from a prospective clinical trial in Leiomyosarcoma",
+      "topic": "leiomyosarcoma; cancer; JAK1 inhibition; tumor microenvironment; prospective pilot study",
+      "publication_date": "2026-11-06"
+    },
     {
       "pmid": "42981266",
       "doi": "10.1371/journal.pone.0360748",
