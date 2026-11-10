@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T10:50:00-05:00",
+  "updated_at": "2026-11-10T10:45:00-05:00",
   "articles": [
+    {
+      "pmid": "42996468",
+      "doi": "10.1002/dad2.70508",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13740365/",
+      "title": "Depression and loneliness differentially predict visual hallucinations in veterans with Alzheimer's disease and Lewy body dementia.",
+      "topic": "Alzheimer's disease; Lewy body dementia; depression; loneliness; visual hallucinations; cross-sectional study",
+      "publication_date": "2026-11-05"
+    },
     {
       "pmid": "42992600",
       "doi": "10.1080/2162402X.2026.2755668",
