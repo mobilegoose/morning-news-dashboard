@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T10:45:00-05:00",
+  "updated_at": "2026-11-11T11:25:00-05:00",
   "articles": [
+    {
+      "pmid": "43004740",
+      "doi": "10.1111/cas.70570",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13748909/",
+      "title": "3-Indoxyl Sulfate and O-Acetylcarnitine Are Potential Novel Biomarkers for Early Diagnosis of Esophageal Cancer.",
+      "topic": "esophageal cancer; Compassionate Allowances; metabolomics; early diagnosis; plasma and urine biomarkers; observational study",
+      "publication_date": "2026-11-09"
+    },
     {
       "pmid": "42996468",
       "doi": "10.1002/dad2.70508",
