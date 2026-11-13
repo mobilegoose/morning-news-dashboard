@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-11T11:25:00-05:00",
+  "updated_at": "2026-11-13T10:45:00-05:00",
   "articles": [
+    {
+      "pmid": "43013672",
+      "doi": "10.1126/sciadv.aee3585",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13754016/",
+      "title": "A TROP2-targeting aptamer enables selective drug delivery and potent antitumor activity in pancreatic cancer",
+      "topic": "pancreatic ductal adenocarcinoma; Compassionate Allowances; TROP2; aptamer-drug conjugate; preclinical laboratory and animal study",
+      "publication_date": "2026-11-11"
+    },
     {
       "pmid": "43004740",
       "doi": "10.1111/cas.70570",
