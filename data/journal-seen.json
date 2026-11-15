@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T10:58:00-05:00",
+  "updated_at": "2026-11-15T10:40:00-05:00",
   "articles": [
+    {
+      "pmid": "43024102",
+      "doi": "10.1007/s00432-026-06668-6",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13768494/",
+      "title": "HER2 as a treatment target in desmoplastic small round cell tumors (DSRCT): a retrospective study in a certified sarcoma center.",
+      "topic": "desmoplastic small round cell tumor; Compassionate Allowances; cancer; HER2; trastuzumab deruxtecan; retrospective case series",
+      "publication_date": "2026-11-13"
+    },
     {
       "pmid": "43017678",
       "doi": "10.1227/neuprac.0000000000000326",
