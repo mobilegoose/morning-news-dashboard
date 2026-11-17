@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T10:40:00-05:00",
+  "updated_at": "2026-11-17T10:45:00-05:00",
   "articles": [
+    {
+      "pmid": null,
+      "doi": "10.1056/EVIDpha2600416",
+      "canonical_url": "https://doi.org/10.1056/EVIDpha2600416",
+      "title": "Outcomes among Pregnant Women with Measles and Their Infants in the United States — Preliminary Analysis, 2025–2026",
+      "topic": "measles; pregnancy; congenital measles; maternal health; neonatal outcomes; preliminary public-health surveillance",
+      "publication_date": "2026-11-16"
+    },
     {
       "pmid": "43024102",
       "doi": "10.1007/s00432-026-06668-6",
