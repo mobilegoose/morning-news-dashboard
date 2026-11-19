@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-18T10:45:00-05:00",
+  "updated_at": "2026-11-19T15:45:52.287966Z",
   "articles": [
+    {
+      "pmid": "43050005",
+      "doi": "10.1007/s10238-026-02339-5",
+      "canonical_url": "https://link.springer.com/article/10.1007/s10238-026-02339-5",
+      "title": "Echoes of infection: viral persistence, immune activation, and histopathological changes in long COVID: a systematic review",
+      "topic": "Long COVID; PASC; viral persistence; immune activation; histopathology; systematic review",
+      "publication_date": "2026-11-17"
+    },
     {
       "pmid": "43041692",
       "doi": "10.1088/3049-477X/aebb31",
