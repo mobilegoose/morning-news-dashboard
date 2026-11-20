@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T15:45:52.287966Z",
+  "updated_at": "2026-11-20T15:45:10.498120Z",
   "articles": [
+    {
+      "pmid": "43054192",
+      "doi": "10.36401/JIPO-26-27",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13777791/",
+      "title": "Releasing Immunosuppression in the Tumor: A Phase 1/2 Study of Arginase Inhibitor INCB001158 in Combination with Chemotherapy in Advanced Malignancies",
+      "topic": "cancer; advanced solid tumors; arginase inhibitor; chemotherapy; phase 1/2 trial; treatment research",
+      "publication_date": "2026-11-17"
+    },
     {
       "pmid": "43050005",
       "doi": "10.1007/s10238-026-02339-5",
