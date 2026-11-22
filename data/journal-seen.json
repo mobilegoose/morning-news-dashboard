@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-20T15:45:10.498120Z",
+  "updated_at": "2026-11-22T15:45:00Z",
   "articles": [
+    {
+      "pmid": "43062734",
+      "doi": "10.1007/s00408-026-00965-0",
+      "canonical_url": "https://link.springer.com/article/10.1007/s00408-026-00965-0",
+      "title": "Effect of Nerandomilast in US Patients with Idiopathic Pulmonary Fibrosis: a Subgroup Analysis of the FIBRONEER-IPF Trial",
+      "topic": "idiopathic pulmonary fibrosis; Compassionate Allowances; nerandomilast; phase 3 randomized trial; lung function; treatment research",
+      "publication_date": "2026-11-20"
+    },
     {
       "pmid": "43054192",
       "doi": "10.36401/JIPO-26-27",
@@ -883,3 +891,4 @@
     }
   ]
 }
+
