@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T15:45:00Z",
+  "updated_at": "2026-11-25T15:45:00Z",
   "articles": [
+    {
+      "pmid": "43076168",
+      "doi": "10.1001/jama.2026.25627",
+      "canonical_url": "https://jamanetwork.com/journals/jama/fullarticle/2857281",
+      "title": "Prehospital Antibiotics for Patients With Suspected Sepsis: The PITSTOP-Antibiotics Factorial Randomized Clinical Trial",
+      "topic": "sepsis; prehospital emergency care; antibiotics; randomized clinical trial; treatment research",
+      "publication_date": "2026-11-24"
+    },
+    {
+      "pmid": "43073384",
+      "doi": "10.1038/s44276-026-00253-7",
+      "canonical_url": "https://www.nature.com/articles/s44276-026-00253-7",
+      "title": "Noninvasive breathomics for developing carbonyl biomarkers in esophageal cancer",
+      "topic": "esophageal cancer; Compassionate Allowances; breathomics; biomarkers; diagnostic research",
+      "publication_date": "2026-11-23"
+    },
     {
       "pmid": "43062734",
       "doi": "10.1007/s00408-026-00965-0",
@@ -891,4 +907,3 @@
     }
   ]
 }
-
