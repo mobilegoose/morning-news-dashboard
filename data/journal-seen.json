@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-11-25T15:45:00Z",
+  "updated_at": "2026-11-26T15:55:00Z",
   "articles": [
+    {
+      "pmid": null,
+      "doi": "10.1038/s41562-026-02626-x",
+      "canonical_url": "https://www.nature.com/articles/s41562-026-02626-x",
+      "title": "Multidimensional motor unit control after paralysing spinal cord injury using non-invasive recordings",
+      "topic": "spinal cord injury; paralysis; assistive technology; rehabilitation; non-invasive neural interface; proof-of-concept",
+      "publication_date": "2026-11-25"
+    },
+    {
+      "pmid": "43094712",
+      "doi": "10.3389/fneur.2026.1881872",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13796195/",
+      "title": "Longitudinal cognitive and functional outcomes after hemorrhagic stroke in patients with preserved consciousness: a prospective observational study",
+      "topic": "hemorrhagic stroke; cognition; function; rehabilitation; prospective observational study",
+      "publication_date": "2026-11-26"
+    },
+    {
+      "pmid": "43094480",
+      "doi": "10.3389/fonc.2026.1952230",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13796100/",
+      "title": "Precision oncology in practice: real-world experience of larotrectinib in pediatric extracranial NTRK fusion-positive solid tumors: a Turkish Pediatric Oncology Group report",
+      "topic": "pediatric cancer; NTRK fusion tumors; larotrectinib; real-world treatment outcomes",
+      "publication_date": "2026-11-26"
+    },
+    {
+      "pmid": "43094502",
+      "doi": "10.3389/fpsyg.2026.1934623",
+      "canonical_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13796158/",
+      "title": "Trajectories of kinesiophobia and associated factors after esophagectomy for esophageal cancer: a prospective longitudinal study",
+      "topic": "esophageal cancer; rehabilitation; function; kinesiophobia; prospective longitudinal study",
+      "publication_date": "2026-11-26"
+    },
     {
       "pmid": "43076168",
       "doi": "10.1001/jama.2026.25627",
